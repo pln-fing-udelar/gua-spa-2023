@@ -1,0 +1,3217 @@
+#test1: Igusto ñañe'ẽ guaranime ha avei japurahéi umi polka ha guarania
+1	Igusto
+2	ñañe'ẽ
+3	guaranime
+4	ha
+5	avei
+6	japurahéi
+7	umi
+8	polka
+9	ha
+10	guarania
+
+#test2: @USER Buenas buenas mbaeichapa nde ko'ē kuña guapa feliz sábado para ti Melly vaaaaamoooos queeeeeee fuerza
+1	@USER
+2	Buenas
+3	buenas
+4	mbaeichapa
+5	nde
+6	ko'ē
+7	kuña
+8	guapa
+9	feliz
+10	sábado
+11	para
+12	ti
+13	Melly
+14	vaaaaamoooos
+15	queeeeeee
+16	fuerza
+
+#test3: Idioma-Guarani : LA ESPIRITUALIDAD Y LA COSMOVISIÓN DEL MUNDO GUARA ... URL
+1	Idioma-Guarani
+2	:
+3	LA
+4	ESPIRITUALIDAD
+5	Y
+6	LA
+7	COSMOVISIÓN
+8	DEL
+9	MUNDO
+10	GUARA
+11	...
+12	URL
+
+#test4: Upévare ojapo ko atropello al Estado de Derecho , ha péva peteî acuerdo político “ Ndikatúi ningo ley omopyenda reglamentación oîva Constitución Nacional-pe .
+1	Upévare
+2	ojapo
+3	ko
+4	atropello
+5	al
+6	Estado
+7	de
+8	Derecho
+9	,
+10	ha
+11	péva
+12	peteî
+13	acuerdo
+14	político
+15	“
+16	Ndikatúi
+17	ningo
+18	ley
+19	omopyenda
+20	reglamentación
+21	oîva
+22	Constitución
+23	Nacional-pe
+24	.
+
+#test5: “ Ndikatúiva omonéî asesores jurídicos Itaipu ýrõ Yasyretã millonario salario ohekáva opytávo viru pueblo odestináva salud , educación ha desarrollo de las comunidades ” , omoañete .
+1	“
+2	Ndikatúiva
+3	omonéî
+4	asesores
+5	jurídicos
+6	Itaipu
+7	ýrõ
+8	Yasyretã
+9	millonario
+10	salario
+11	ohekáva
+12	opytávo
+13	viru
+14	pueblo
+15	odestináva
+16	salud
+17	,
+18	educación
+19	ha
+20	desarrollo
+21	de
+22	las
+23	comunidades
+24	”
+25	,
+26	omoañete
+27	.
+
+#test6: Noimei planeado pe reubicación ” , he'i Gladys Mancuello , comerciante Fernando de la Mora .
+1	Noimei
+2	planeado
+3	pe
+4	reubicación
+5	”
+6	,
+7	he'i
+8	Gladys
+9	Mancuello
+10	,
+11	comerciante
+12	Fernando
+13	de
+14	la
+15	Mora
+16	.
+
+#test7: Oime conductor omoañetévo nativo okobra “ peaje ” ohasávo hikuái .
+1	Oime
+2	conductor
+3	omoañetévo
+4	nativo
+5	okobra
+6	“
+7	peaje
+8	”
+9	ohasávo
+10	hikuái
+11	.
+
+#test8: Ko programa ohupyty 916 temimbo’épe ko’ã mbo’ehaópe tendáre .
+1	Ko
+2	programa
+3	ohupyty
+4	916
+5	temimbo’épe
+6	ko’ã
+7	mbo’ehaópe
+8	tendáre
+9	.
+
+#test9: @USER El verdadero la Tavy nda Nde jukai pero Nde reko asy
+1	@USER
+2	El
+3	verdadero
+4	la
+5	Tavy
+6	nda
+7	Nde
+8	jukai
+9	pero
+10	Nde
+11	reko
+12	asy
+
+#test10: Oî ko hova´atâva ko´arupi ... ambopororóta hina umi hovakuera tovajepetepe ! peha´arônteke sapy´aitemi #ñaaaa
+1	Oî
+2	ko
+3	hova´atâva
+4	ko´arupi
+5	...
+6	ambopororóta
+7	hina
+8	umi
+9	hovakuera
+10	tovajepetepe
+11	!
+12	peha´arônteke
+13	sapy´aitemi
+14	#ñaaaa
+
+#test11: @USER Ekambuna hese nde tuja'i
+1	@USER
+2	Ekambuna
+3	hese
+4	nde
+5	tuja'i
+
+#test12: Ha ha'e ohendu jave ko'ã , oñemo'i mbyasy eterei , ypyrehe ha'e ha'éva'ekue poky eterei . Lucas 0.765972222222222
+1	Ha
+2	ha'e
+3	ohendu
+4	jave
+5	ko'ã
+6	,
+7	oñemo'i
+8	mbyasy
+9	eterei
+10	,
+11	ypyrehe
+12	ha'e
+13	ha'éva'ekue
+14	poky
+15	eterei
+16	.
+17	Lucas
+18	0.765972222222222
+
+#test13: Tribunal Electoral Pilar-gua omoherakuã concejal pyahu departamental , ojeporavóva comicios generales ha departamental 22 de abril ohasava'ekuépe .
+1	Tribunal
+2	Electoral
+3	Pilar-gua
+4	omoherakuã
+5	concejal
+6	pyahu
+7	departamental
+8	,
+9	ojeporavóva
+10	comicios
+11	generales
+12	ha
+13	departamental
+14	22
+15	de
+16	abril
+17	ohasava'ekuépe
+18	.
+
+#test14: Upéicha avei oñeme'ê chupe heta ambue jehechakuaa ha pyti'ajegua , Inglaterra ha heta ambue tetâme .
+1	Upéicha
+2	avei
+3	oñeme'ê
+4	chupe
+5	heta
+6	ambue
+7	jehechakuaa
+8	ha
+9	pyti'ajegua
+10	,
+11	Inglaterra
+12	ha
+13	heta
+14	ambue
+15	tetâme
+16	.
+
+#test15: Temimbo'e oikuaa mba'éichapa oiporuva'erã ipirapire
+1	Temimbo'e
+2	oikuaa
+3	mba'éichapa
+4	oiporuva'erã
+5	ipirapire
+
+#test16: @USER q mufa son uds !! Tyeraku ! Para la albirro Q vuelva claro y el gordo sanchez ! Y en Cerro Personal ! Aplazados en servicios tb !!
+1	@USER
+2	q
+3	mufa
+4	son
+5	uds
+6	!!
+7	Tyeraku
+8	!
+9	Para
+10	la
+11	albirro
+12	Q
+13	vuelva
+14	claro
+15	y
+16	el
+17	gordo
+18	sanchez
+19	!
+20	Y
+21	en
+22	Cerro
+23	Personal
+24	!
+25	Aplazados
+26	en
+27	servicios
+28	tb
+29	!!
+
+#test17: @USER va funcionar pio la señal !!!!!!!
+1	@USER
+2	va
+3	funcionar
+4	pio
+5	la
+6	señal
+7	!!!!!!!
+
+#test18: Mbo'ehára Elva he'i ary 2009 jave intendente Saturnino Bogado ome'ê ichupe ha ikypy'ýpe orden de ocupación mokõi terreno , peteî hérape ha ambue ambuépe .
+1	Mbo'ehára
+2	Elva
+3	he'i
+4	ary
+5	2009
+6	jave
+7	intendente
+8	Saturnino
+9	Bogado
+10	ome'ê
+11	ichupe
+12	ha
+13	ikypy'ýpe
+14	orden
+15	de
+16	ocupación
+17	mokõi
+18	terreno
+19	,
+20	peteî
+21	hérape
+22	ha
+23	ambue
+24	ambuépe
+25	.
+
+#test19: @USER Ani nde pochy Ivan 🤣🤣🤣🤣 En serio va sin mala onda jajaja
+1	@USER
+2	Ani
+3	nde
+4	pochy
+5	Ivan
+6	🤣🤣🤣🤣
+7	En
+8	serio
+9	va
+10	sin
+11	mala
+12	onda
+13	jajaja
+
+#test20: Omoañete haihára , mbo'ehára ojevela salón Memorial avenida Mariscal López ha oñeñotýta táva Villarrica-pe .
+1	Omoañete
+2	haihára
+3	,
+4	mbo'ehára
+5	ojevela
+6	salón
+7	Memorial
+8	avenida
+9	Mariscal
+10	López
+11	ha
+12	oñeñotýta
+13	táva
+14	Villarrica-pe
+15	.
+
+#test21: @USER Nde yeuma pico , anda jugar free mbae
+1	@USER
+2	Nde
+3	yeuma
+4	pico
+5	,
+6	anda
+7	jugar
+8	free
+9	mbae
+
+#test22: LEONARDO LEDESMA HE'I PETEÎ ÑE'ÊPOTY : URL vía @USER
+1	LEONARDO
+2	LEDESMA
+3	HE'I
+4	PETEÎ
+5	ÑE'ÊPOTY
+6	:
+7	URL
+8	vía
+9	@USER
+
+#test23: Ha'éva Mitâmi Hesu
+1	Ha'éva
+2	Mitâmi
+3	Hesu
+
+#test24: @USER que logro " cuenta verificada " para festejar regalen saldo mba'e
+1	@USER
+2	que
+3	logro
+4	"
+5	cuenta
+6	verificada
+7	"
+8	para
+9	festejar
+10	regalen
+11	saldo
+12	mba'e
+
+#test25: @USER Omarcha upea , che ko'e ave.i , quiero un puesto en Itaipú hendy ape tobatime , mbae eremi la puesto mi itaipupe
+1	@USER
+2	Omarcha
+3	upea
+4	,
+5	che
+6	ko'e
+7	ave.i
+8	,
+9	quiero
+10	un
+11	puesto
+12	en
+13	Itaipú
+14	hendy
+15	ape
+16	tobatime
+17	,
+18	mbae
+19	eremi
+20	la
+21	puesto
+22	mi
+23	itaipupe
+
+#test26: Ñañe'êmiena la avañe'ême ( ? JAAALAAA
+1	Ñañe'êmiena
+2	la
+3	avañe'ême
+4	(
+5	?
+6	JAAALAAA
+
+#test27: 8 de marzo , Diputado omonéî uso obligatorio pulsera electrónica umi kuimba'e denunciado oinupãva ipareja o expareja , ohapejokóvo feminicidio .
+1	8
+2	de
+3	marzo
+4	,
+5	Diputado
+6	omonéî
+7	uso
+8	obligatorio
+9	pulsera
+10	electrónica
+11	umi
+12	kuimba'e
+13	denunciado
+14	oinupãva
+15	ipareja
+16	o
+17	expareja
+18	,
+19	ohapejokóvo
+20	feminicidio
+21	.
+
+#test28: Ko estructura Central Hidroeléctrica Yasyretã- ombohape 24 jasypoapy jave 2019 – oiporúva 33,576 oñembotývo jasypateî jave ojekuaa reporte rupive EBY .
+1	Ko
+2	estructura
+3	Central
+4	Hidroeléctrica
+5	Yasyretã-
+6	ombohape
+7	24
+8	jasypoapy
+9	jave
+10	2019
+11	–
+12	oiporúva
+13	33,576
+14	oñembotývo
+15	jasypateî
+16	jave
+17	ojekuaa
+18	reporte
+19	rupive
+20	EBY
+21	.
+
+#test29: Péicha oime umi asistente funcionario capacitado , orekóva insumo de bioseguridad pertinente .
+1	Péicha
+2	oime
+3	umi
+4	asistente
+5	funcionario
+6	capacitado
+7	,
+8	orekóva
+9	insumo
+10	de
+11	bioseguridad
+12	pertinente
+13	.
+
+#test30: CON EDILBERTO VARGAS EN PURAHÉI RORY POR RADIO CÁRITAS URL
+1	CON
+2	EDILBERTO
+3	VARGAS
+4	EN
+5	PURAHÉI
+6	RORY
+7	POR
+8	RADIO
+9	CÁRITAS
+10	URL
+
+#test31: Peteî akâ osê he'i “ So'o ” ha ambuéva avei he'i “ So'o ” .
+1	Peteî
+2	akâ
+3	osê
+4	he'i
+5	“
+6	So'o
+7	”
+8	ha
+9	ambuéva
+10	avei
+11	he'i
+12	“
+13	So'o
+14	”
+15	.
+
+#test32: Imandu'a orekóva mercadería Aduana-pe , péva chequeo ha intervención oikóva , oha'ãrõva oguahëvo a destino .
+1	Imandu'a
+2	orekóva
+3	mercadería
+4	Aduana-pe
+5	,
+6	péva
+7	chequeo
+8	ha
+9	intervención
+10	oikóva
+11	,
+12	oha'ãrõva
+13	oguahëvo
+14	a
+15	destino
+16	.
+
+#test33: Omyesakã día lunes oikóva omoañete ko'ã representante coalición oîva okaháre .
+1	Omyesakã
+2	día
+3	lunes
+4	oikóva
+5	omoañete
+6	ko'ã
+7	representante
+8	coalición
+9	oîva
+10	okaháre
+11	.
+
+#test34: Te preocupas en ganar plata nomás hei jajaajajja y de amor co no se vive nde itavya
+1	Te
+2	preocupas
+3	en
+4	ganar
+5	plata
+6	nomás
+7	hei
+8	jajaajajja
+9	y
+10	de
+11	amor
+12	co
+13	no
+14	se
+15	vive
+16	nde
+17	itavya
+
+#test35: Municipalidad ombotove Contraloría he’íva imandúpe
+1	Municipalidad
+2	ombotove
+3	Contraloría
+4	he’íva
+5	imandúpe
+
+#test36: Propuesta orekova deuda pyahu Itaipúpe , ko’ágã de manera informal , oipyhýva Gobierno Mario Abdo Benítez oiméva plan de acción ombohováivo consecuencia crisis económica oipyhýva pandemia .
+1	Propuesta
+2	orekova
+3	deuda
+4	pyahu
+5	Itaipúpe
+6	,
+7	ko’ágã
+8	de
+9	manera
+10	informal
+11	,
+12	oipyhýva
+13	Gobierno
+14	Mario
+15	Abdo
+16	Benítez
+17	oiméva
+18	plan
+19	de
+20	acción
+21	ombohováivo
+22	consecuencia
+23	crisis
+24	económica
+25	oipyhýva
+26	pandemia
+27	.
+
+#test37: @USER haces bien una porqueria es el ñembo hd de @USER
+1	@USER
+2	haces
+3	bien
+4	una
+5	porqueria
+6	es
+7	el
+8	ñembo
+9	hd
+10	de
+11	@USER
+
+#test38: Son unos inutiles de 1ra @USER hee ? ... En un sábado bastante kaigue me dejan sin Internet y Cable TV .
+1	Son
+2	unos
+3	inutiles
+4	de
+5	1ra
+6	@USER
+7	hee
+8	?
+9	...
+10	En
+11	un
+12	sábado
+13	bastante
+14	kaigue
+15	me
+16	dejan
+17	sin
+18	Internet
+19	y
+20	Cable
+21	TV
+22	.
+
+#test39: Así que amigos , desde hoy por favor todos háblenme en guaraní pls . Háke , peñe'emi chéve guaraníme plz .
+1	Así
+2	que
+3	amigos
+4	,
+5	desde
+6	hoy
+7	por
+8	favor
+9	todos
+10	háblenme
+11	en
+12	guaraní
+13	pls
+14	.
+15	Háke
+16	,
+17	peñe'emi
+18	chéve
+19	guaraníme
+20	plz
+21	.
+
+#test40: Nderakore , aparte de ser el cuerno nde pesada jey
+1	Nderakore
+2	,
+3	aparte
+4	de
+5	ser
+6	el
+7	cuerno
+8	nde
+9	pesada
+10	jey
+
+#test41: @USER : Usuarios de Tigo , no es gua'u cierto esto . Cc : @USER URL @USER
+1	@USER
+2	:
+3	Usuarios
+4	de
+5	Tigo
+6	,
+7	no
+8	es
+9	gua'u
+10	cierto
+11	esto
+12	.
+13	Cc
+14	:
+15	@USER
+16	URL
+17	@USER
+
+#test42: @USER ustedes me van a matar cheraa
+1	@USER
+2	ustedes
+3	me
+4	van
+5	a
+6	matar
+7	cheraa
+
+#test43: Oî luto-pe hikuái Asociación de Músicos del Paraguay .
+1	Oî
+2	luto-pe
+3	hikuái
+4	Asociación
+5	de
+6	Músicos
+7	del
+8	Paraguay
+9	.
+
+#test44: Umi organización Juventud en Contramano omotenonde hikuái sentata calle Oliva ári , oikéva protesta disposición Poder Ejecutivo orekóva ko arangépe .
+1	Umi
+2	organización
+3	Juventud
+4	en
+5	Contramano
+6	omotenonde
+7	hikuái
+8	sentata
+9	calle
+10	Oliva
+11	ári
+12	,
+13	oikéva
+14	protesta
+15	disposición
+16	Poder
+17	Ejecutivo
+18	orekóva
+19	ko
+20	arangépe
+21	.
+
+#test45: @USER Marco prieto no es nuestro jugador nde ? Jaja qué hacía la propaganda de Yak
+1	@USER
+2	Marco
+3	prieto
+4	no
+5	es
+6	nuestro
+7	jugador
+8	nde
+9	?
+10	Jaja
+11	qué
+12	hacía
+13	la
+14	propaganda
+15	de
+16	Yak
+
+#test46: Ambue hovápe oguereko mokôi korasô Hesu ha María mba'e , tai M , ojuasáva peteî kurusúre ha 12 mbyjáre ñanemomandu'áva umi 12 Hesu Remimondóre .
+1	Ambue
+2	hovápe
+3	oguereko
+4	mokôi
+5	korasô
+6	Hesu
+7	ha
+8	María
+9	mba'e
+10	,
+11	tai
+12	M
+13	,
+14	ojuasáva
+15	peteî
+16	kurusúre
+17	ha
+18	12
+19	mbyjáre
+20	ñanemomandu'áva
+21	umi
+22	12
+23	Hesu
+24	Remimondóre
+25	.
+
+#test47: @USER tigo mundaha
+1	@USER
+2	tigo
+3	mundaha
+
+#test48: “ Embajada del Paraguay oiméva Israel-pe ko pyhareve omoañete Cancillería Nacional ko'ágã Ministerio de Relaciones Exteriores Israelí ary oikévape oiketáha Paraguái upe convocatoria de becas umi profesionales , ha'eháicha ambue ary oikohaguéicha ” , he'i comunicado osêva ko cartera estatal-gui , orekphápe decisión oipyhýva umi autoridades israelíes .
+1	“
+2	Embajada
+3	del
+4	Paraguay
+5	oiméva
+6	Israel-pe
+7	ko
+8	pyhareve
+9	omoañete
+10	Cancillería
+11	Nacional
+12	ko'ágã
+13	Ministerio
+14	de
+15	Relaciones
+16	Exteriores
+17	Israelí
+18	ary
+19	oikévape
+20	oiketáha
+21	Paraguái
+22	upe
+23	convocatoria
+24	de
+25	becas
+26	umi
+27	profesionales
+28	,
+29	ha'eháicha
+30	ambue
+31	ary
+32	oikohaguéicha
+33	”
+34	,
+35	he'i
+36	comunicado
+37	osêva
+38	ko
+39	cartera
+40	estatal-gui
+41	,
+42	orekphápe
+43	decisión
+44	oipyhýva
+45	umi
+46	autoridades
+47	israelíes
+48	.
+
+#test49: Ajerúre ichupe peteî copia umi antecedente comunicaciones espontánea orekóva Ministerio Público tetã Paraguái ykére oîvagui , noñeme’êi chéve upe copia , ha che jurujái apytávo , ka’aru aikuaávo oñeallana che róga , oheka hikuái peteî supuesto bolígrafo ” , omoañete Volpe ABC Cardinal-pe upe procedimiento oñemotenondéva hógape .
+1	Ajerúre
+2	ichupe
+3	peteî
+4	copia
+5	umi
+6	antecedente
+7	comunicaciones
+8	espontánea
+9	orekóva
+10	Ministerio
+11	Público
+12	tetã
+13	Paraguái
+14	ykére
+15	oîvagui
+16	,
+17	noñeme’êi
+18	chéve
+19	upe
+20	copia
+21	,
+22	ha
+23	che
+24	jurujái
+25	apytávo
+26	,
+27	ka’aru
+28	aikuaávo
+29	oñeallana
+30	che
+31	róga
+32	,
+33	oheka
+34	hikuái
+35	peteî
+36	supuesto
+37	bolígrafo
+38	”
+39	,
+40	omoañete
+41	Volpe
+42	ABC
+43	Cardinal-pe
+44	upe
+45	procedimiento
+46	oñemotenondéva
+47	hógape
+48	.
+
+#test50: Mis amigos : Eguata porãke ani nde sy nde pilla eka'uha Yo : URL
+1	Mis
+2	amigos
+3	:
+4	Eguata
+5	porãke
+6	ani
+7	nde
+8	sy
+9	nde
+10	pilla
+11	eka'uha
+12	Yo
+13	:
+14	URL
+
+#test51: Omoherakuã novedad candidatura Ulises Quintana
+1	Omoherakuã
+2	novedad
+3	candidatura
+4	Ulises
+5	Quintana
+
+#test52: Sanmiguelino apesâ chemoirû kopyhareve , ko'emboyve . Peipirû jahapa hagua Festival Ovecharaguepe ..
+1	Sanmiguelino
+2	apesâ
+3	chemoirû
+4	kopyhareve
+5	,
+6	ko'emboyve
+7	.
+8	Peipirû
+9	jahapa
+10	hagua
+11	Festival
+12	Ovecharaguepe
+13	..
+
+#test53: Oime umi mba'e oikotevêva Gobierno orekóva memoria colectiva oitýva tukumbo ombotovévo tesaráipe .
+1	Oime
+2	umi
+3	mba'e
+4	oikotevêva
+5	Gobierno
+6	orekóva
+7	memoria
+8	colectiva
+9	oitýva
+10	tukumbo
+11	ombotovévo
+12	tesaráipe
+13	.
+
+#test54: PÑS OMOMBA’EGUASU EMPRESA PROYACK OGUENOHẼRE AO IMARANDU GUARANÍVA URL
+1	PÑS
+2	OMOMBA’EGUASU
+3	EMPRESA
+4	PROYACK
+5	OGUENOHẼRE
+6	AO
+7	IMARANDU
+8	GUARANÍVA
+9	URL
+
+#test55: Oguerovia hikuái ko situación oñenormalisa ára ouvape .
+1	Oguerovia
+2	hikuái
+3	ko
+4	situación
+5	oñenormalisa
+6	ára
+7	ouvape
+8	.
+
+#test56: @USER No puede ser que nunca escucharon la expresión : " nde mba'e rakamby abierto , kavaju calesita calesita " .
+1	@USER
+2	No
+3	puede
+4	ser
+5	que
+6	nunca
+7	escucharon
+8	la
+9	expresión
+10	:
+11	"
+12	nde
+13	mba'e
+14	rakamby
+15	abierto
+16	,
+17	kavaju
+18	calesita
+19	calesita
+20	"
+21	.
+
+#test57: Ko'ã parlamentario omboguatáva tendotakuérape , Poder Ejecutivo oñemoîva'erã acuerdo constitucional-pe .
+1	Ko'ã
+2	parlamentario
+3	omboguatáva
+4	tendotakuérape
+5	,
+6	Poder
+7	Ejecutivo
+8	oñemoîva'erã
+9	acuerdo
+10	constitucional-pe
+11	.
+
+#test58: @USER Atopa kuña eñe'ea la guaranime hahaha ha'e guaranime añe´e porave ispañolguii
+1	@USER
+2	Atopa
+3	kuña
+4	eñe'ea
+5	la
+6	guaranime
+7	hahaha
+8	ha'e
+9	guaranime
+10	añe´e
+11	porave
+12	ispañolguii
+
+#test59: Oñemoñepyrũ guarani mbo’esyry Hospital Nacional de Itauguá mba’apoharakuéra ndive URL @USER
+1	Oñemoñepyrũ
+2	guarani
+3	mbo’esyry
+4	Hospital
+5	Nacional
+6	de
+7	Itauguá
+8	mba’apoharakuéra
+9	ndive
+10	URL
+11	@USER
+
+#test60: Ko grupo , irundyha rupive , oñembyatýva mbohapy jey arapokõindýpe ha oipytyvõva empresa Nutriforma , ojapóva actividad física ha tembiapo social .
+1	Ko
+2	grupo
+3	,
+4	irundyha
+5	rupive
+6	,
+7	oñembyatýva
+8	mbohapy
+9	jey
+10	arapokõindýpe
+11	ha
+12	oipytyvõva
+13	empresa
+14	Nutriforma
+15	,
+16	ojapóva
+17	actividad
+18	física
+19	ha
+20	tembiapo
+21	social
+22	.
+
+#test61: @USER Seeee amigo oikoite ñande amiga , nde ahata Villa Halles pe hina heta la amiwis x ahi
+1	@USER
+2	Seeee
+3	amigo
+4	oikoite
+5	ñande
+6	amiga
+7	,
+8	nde
+9	ahata
+10	Villa
+11	Halles
+12	pe
+13	hina
+14	heta
+15	la
+16	amiwis
+17	x
+18	ahi
+
+#test62: @USER cada UN METRO tengo y no tengo señal .. Se pueden pio tranquilizar ya !! Se tomaron pio conmigo o que ??!!!!
+1	@USER
+2	cada
+3	UN
+4	METRO
+5	tengo
+6	y
+7	no
+8	tengo
+9	señal
+10	..
+11	Se
+12	pueden
+13	pio
+14	tranquilizar
+15	ya
+16	!!
+17	Se
+18	tomaron
+19	pio
+20	conmigo
+21	o
+22	que
+23	??!!!!
+
+#test63: Oikévo altercado , legisladora ohasa severo cuestionamiento iñirûnguéra rehe ha omoañete institución ha'éva peteî cueva de forajido , tenda oikehápe delincuente , ha omohenda iñirûnguéra tavaygua estafador ha upépe oñeikytî señal TV Cámara , ko'ã transmisión sesión parlamentaria jave .
+1	Oikévo
+2	altercado
+3	,
+4	legisladora
+5	ohasa
+6	severo
+7	cuestionamiento
+8	iñirûnguéra
+9	rehe
+10	ha
+11	omoañete
+12	institución
+13	ha'éva
+14	peteî
+15	cueva
+16	de
+17	forajido
+18	,
+19	tenda
+20	oikehápe
+21	delincuente
+22	,
+23	ha
+24	omohenda
+25	iñirûnguéra
+26	tavaygua
+27	estafador
+28	ha
+29	upépe
+30	oñeikytî
+31	señal
+32	TV
+33	Cámara
+34	,
+35	ko'ã
+36	transmisión
+37	sesión
+38	parlamentaria
+39	jave
+40	.
+
+#test64: Así 🤡🤡 quede después de que le dije a mi papá que era un amigo no más y se me salió un " chengo la anovia ndahaei nde " jajajajajajaja 😂😂😂
+1	Así
+2	🤡🤡
+3	quede
+4	después
+5	de
+6	que
+7	le
+8	dije
+9	a
+10	mi
+11	papá
+12	que
+13	era
+14	un
+15	amigo
+16	no
+17	más
+18	y
+19	se
+20	me
+21	salió
+22	un
+23	"
+24	chengo
+25	la
+26	anovia
+27	ndahaei
+28	nde
+29	"
+30	jajajajajajaja
+31	😂😂😂
+
+#test65: He’i Tupão noîrî lucha de clases ykére , pero sí ombotove mezquindad ha indolencia rico orekóva .
+1	He’i
+2	Tupão
+3	noîrî
+4	lucha
+5	de
+6	clases
+7	ykére
+8	,
+9	pero
+10	sí
+11	ombotove
+12	mezquindad
+13	ha
+14	indolencia
+15	rico
+16	orekóva
+17	.
+
+#test66: Twis en Inglés , árabe , francés , Etc . Etc . Che atwiteata Guaranime mba'e .
+1	Twis
+2	en
+3	Inglés
+4	,
+5	árabe
+6	,
+7	francés
+8	,
+9	Etc
+10	.
+11	Etc
+12	.
+13	Che
+14	atwiteata
+15	Guaranime
+16	mba'e
+17	.
+
+#test67: Ajuhu peteî número de teléfono , ha ahenói .
+1	Ajuhu
+2	peteî
+3	número
+4	de
+5	teléfono
+6	,
+7	ha
+8	ahenói
+9	.
+
+#test68: Ha'éniko upe ohecha'ypýraka'e umi tuguy aty ABO ha upévare oñeme'êkuri chupe Jopói Nobel ary 1930-pe .
+1	Ha'éniko
+2	upe
+3	ohecha'ypýraka'e
+4	umi
+5	tuguy
+6	aty
+7	ABO
+8	ha
+9	upévare
+10	oñeme'êkuri
+11	chupe
+12	Jopói
+13	Nobel
+14	ary
+15	1930-pe
+16	.
+
+#test69: Museo Casa de la Independencia oñeinauguró pyhareve peteî espacio infantil ko'ã mitãnguéra oikuaa haguã umi objeto valioso , siglo XIX guare .
+1	Museo
+2	Casa
+3	de
+4	la
+5	Independencia
+6	oñeinauguró
+7	pyhareve
+8	peteî
+9	espacio
+10	infantil
+11	ko'ã
+12	mitãnguéra
+13	oikuaa
+14	haguã
+15	umi
+16	objeto
+17	valioso
+18	,
+19	siglo
+20	XIX
+21	guare
+22	.
+
+#test70: Tetã iñapañuãi pypuku apañuãi política , umi tavaygua Jesús-gua imandu’a fundación aniversario
+1	Tetã
+2	iñapañuãi
+3	pypuku
+4	apañuãi
+5	política
+6	,
+7	umi
+8	tavaygua
+9	Jesús-gua
+10	imandu’a
+11	fundación
+12	aniversario
+
+#test71: María Auxiliadora , 120 años tetãme
+1	María
+2	Auxiliadora
+3	,
+4	120
+5	años
+6	tetãme
+
+#test72: Arriéro sin esperanza ĝuaiĝui rumby
+1	Arriéro
+2	sin
+3	esperanza
+4	ĝuaiĝui
+5	rumby
+
+#test73: A esas personas que no hablan guaraní porque dicen que es " pelada " , añe'epaiteta guaranime ha ambopy'atarovata chugui .
+1	A
+2	esas
+3	personas
+4	que
+5	no
+6	hablan
+7	guaraní
+8	porque
+9	dicen
+10	que
+11	es
+12	"
+13	pelada
+14	"
+15	,
+16	añe'epaiteta
+17	guaranime
+18	ha
+19	ambopy'atarovata
+20	chugui
+21	.
+
+#test74: Poder Judicial ha Ministerio Público ha’e peteï calamidad ha ndaha’éiva político causa añónte .
+1	Poder
+2	Judicial
+3	ha
+4	Ministerio
+5	Público
+6	ha’e
+7	peteï
+8	calamidad
+9	ha
+10	ndaha’éiva
+11	político
+12	causa
+13	añónte
+14	.
+
+#test75: ABC remiandu : OEA ha Unasur ojuavy tuicha URL Vía @USER
+1	ABC
+2	remiandu
+3	:
+4	OEA
+5	ha
+6	Unasur
+7	ojuavy
+8	tuicha
+9	URL
+10	Vía
+11	@USER
+
+#test76: Consigna orekóva endeudamiento Itaipúpe , topa oportunidad 2023-pe , ome’êva movilizaciones ciudadana Paraguaýpe ha Hernandarias .
+1	Consigna
+2	orekóva
+3	endeudamiento
+4	Itaipúpe
+5	,
+6	topa
+7	oportunidad
+8	2023-pe
+9	,
+10	ome’êva
+11	movilizaciones
+12	ciudadana
+13	Paraguaýpe
+14	ha
+15	Hernandarias
+16	.
+
+#test77: Conferencia de prensa ko jueves guive , ministro de Salud , Julio Mazzoleni , omoañete fase mbohapýha “ cuarentena inteligente ” , omoañetéva relajación oimévo etapa orekóva medida restrictiva circulación ha actividad laboral , deportiva ha entretenimiento , ko’ãva , Gobierno ojoko heta mba’e ohapejokóvo pandemia COVID-19 Paraguáipe .
+1	Conferencia
+2	de
+3	prensa
+4	ko
+5	jueves
+6	guive
+7	,
+8	ministro
+9	de
+10	Salud
+11	,
+12	Julio
+13	Mazzoleni
+14	,
+15	omoañete
+16	fase
+17	mbohapýha
+18	“
+19	cuarentena
+20	inteligente
+21	”
+22	,
+23	omoañetéva
+24	relajación
+25	oimévo
+26	etapa
+27	orekóva
+28	medida
+29	restrictiva
+30	circulación
+31	ha
+32	actividad
+33	laboral
+34	,
+35	deportiva
+36	ha
+37	entretenimiento
+38	,
+39	ko’ãva
+40	,
+41	Gobierno
+42	ojoko
+43	heta
+44	mba’e
+45	ohapejokóvo
+46	pandemia
+47	COVID-19
+48	Paraguáipe
+49	.
+
+#test78: Nde no podre beber por 10 dias hei ..
+1	Nde
+2	no
+3	podre
+4	beber
+5	por
+6	10
+7	dias
+8	hei
+9	..
+
+#test79: Dirección de Meteorología ombopyahu tormenta , omokyre’ÿvo poapy departamento centro , este , noreste región Oriental ha Chaco paraguayo .
+1	Dirección
+2	de
+3	Meteorología
+4	ombopyahu
+5	tormenta
+6	,
+7	omokyre’ÿvo
+8	poapy
+9	departamento
+10	centro
+11	,
+12	este
+13	,
+14	noreste
+15	región
+16	Oriental
+17	ha
+18	Chaco
+19	paraguayo
+20	.
+
+#test80: José Gaspar Rodríguez de Francia ” , odestecha yvytu hatã oipejúva , ha ambue táva jerére oï okukúiva óga'imi .
+1	José
+2	Gaspar
+3	Rodríguez
+4	de
+5	Francia
+6	”
+7	,
+8	odestecha
+9	yvytu
+10	hatã
+11	oipejúva
+12	,
+13	ha
+14	ambue
+15	táva
+16	jerére
+17	oï
+18	okukúiva
+19	óga'imi
+20	.
+
+#test81: Omyesakã orekóha intención oipytyvõva jeporavo peteî senador Añetete orekóva titular Congreso-gua , upéicha disidencia ojapova'erã lo propio , ome'êvo pytyvõ diputado cartista-pe .
+1	Omyesakã
+2	orekóha
+3	intención
+4	oipytyvõva
+5	jeporavo
+6	peteî
+7	senador
+8	Añetete
+9	orekóva
+10	titular
+11	Congreso-gua
+12	,
+13	upéicha
+14	disidencia
+15	ojapova'erã
+16	lo
+17	propio
+18	,
+19	ome'êvo
+20	pytyvõ
+21	diputado
+22	cartista-pe
+23	.
+
+#test82: " Umi ñomongeta ha joaju iktu ome'ê resultado iporãva ha ojehu heta mba'e omoabuéva .
+1	"
+2	Umi
+3	ñomongeta
+4	ha
+5	joaju
+6	iktu
+7	ome'ê
+8	resultado
+9	iporãva
+10	ha
+11	ojehu
+12	heta
+13	mba'e
+14	omoabuéva
+15	.
+
+#test83: Ára 14 jasypoteî ñavô arygua ojegueromandu'a TUGUY ME'ÊHÁRA ÁRA , omoheñoiva'ekue Tesâi Yvoragua Atypavê – OMS ary 2004-pe .
+1	Ára
+2	14
+3	jasypoteî
+4	ñavô
+5	arygua
+6	ojegueromandu'a
+7	TUGUY
+8	ME'ÊHÁRA
+9	ÁRA
+10	,
+11	omoheñoiva'ekue
+12	Tesâi
+13	Yvoragua
+14	Atypavê
+15	–
+16	OMS
+17	ary
+18	2004-pe
+19	.
+
+#test84: Ha guaranime teikoteero . Pero heta mba’e jajapota oñondivepa
+1	Ha
+2	guaranime
+3	teikoteero
+4	.
+5	Pero
+6	heta
+7	mba’e
+8	jajapota
+9	oñondivepa
+
+#test85: @USER Nda kiririmoai ndeve nde rygue tambor
+1	@USER
+2	Nda
+3	kiririmoai
+4	ndeve
+5	nde
+6	rygue
+7	tambor
+
+#test86: Añe'ero ndeve guaranime che raihuveta ? @USER :( No entendes guarani ? No ? Bueno :(
+1	Añe'ero
+2	ndeve
+3	guaranime
+4	che
+5	raihuveta
+6	?
+7	@USER
+8	:(
+9	No
+10	entendes
+11	guarani
+12	?
+13	No
+14	?
+15	Bueno
+16	:(
+
+#test87: @USER añe'eta ndeve guaranime osegui nio cheve petei CHOLO ivaiva rehegua !!! umia KOREKOGUA !!! jajajaja amanose feibu entero che agregapama
+1	@USER
+2	añe'eta
+3	ndeve
+4	guaranime
+5	osegui
+6	nio
+7	cheve
+8	petei
+9	CHOLO
+10	ivaiva
+11	rehegua
+12	!!!
+13	umia
+14	KOREKOGUA
+15	!!!
+16	jajajaja
+17	amanose
+18	feibu
+19	entero
+20	che
+21	agregapama
+
+#test88: Upéi , Tupâsy Maria akâ jerere ojehecha peteî mba'erendy he'ihápe “ Ha , Maria nde reko angaipa'ŷva , oñembo'emína orerehe rojeroviáva nderehe ” .
+1	Upéi
+2	,
+3	Tupâsy
+4	Maria
+5	akâ
+6	jerere
+7	ojehecha
+8	peteî
+9	mba'erendy
+10	he'ihápe
+11	“
+12	Ha
+13	,
+14	Maria
+15	nde
+16	reko
+17	angaipa'ŷva
+18	,
+19	oñembo'emína
+20	orerehe
+21	rojeroviáva
+22	nderehe
+23	”
+24	.
+
+#test89: 29 de setiembre " Batalla de Boquerón " . ¡ Ñamomba'eguasu ñande rapykuere !
+1	29
+2	de
+3	setiembre
+4	"
+5	Batalla
+6	de
+7	Boquerón
+8	"
+9	.
+10	¡
+11	Ñamomba'eguasu
+12	ñande
+13	rapykuere
+14	!
+
+#test90: Ombotove propaganda electoral extemporánea
+1	Ombotove
+2	propaganda
+3	electoral
+4	extemporánea
+
+#test91: Momarandu avei ombohasaha oñepyrûva umi procedimiento penal Sandra McLeod de Zacarías , senador rembireko , avei oime imputada ko hecho punible rehe .
+1	Momarandu
+2	avei
+3	ombohasaha
+4	oñepyrûva
+5	umi
+6	procedimiento
+7	penal
+8	Sandra
+9	McLeod
+10	de
+11	Zacarías
+12	,
+13	senador
+14	rembireko
+15	,
+16	avei
+17	oime
+18	imputada
+19	ko
+20	hecho
+21	punible
+22	rehe
+23	.
+
+#test92: @USER Muy buen día Melly mbaeichapa nde koē kuña guapa
+1	@USER
+2	Muy
+3	buen
+4	día
+5	Melly
+6	mbaeichapa
+7	nde
+8	koē
+9	kuña
+10	guapa
+
+#test93: Ha umi lista oñembohasáva ndaha'éiha .
+1	Ha
+2	umi
+3	lista
+4	oñembohasáva
+5	ndaha'éiha
+6	.
+
+#test94: @USER Yo lo que quiero saber , mbae mbaepio la orekova pe Boselli , ni kururu ningo ndo shutai 🤔🤔
+1	@USER
+2	Yo
+3	lo
+4	que
+5	quiero
+6	saber
+7	,
+8	mbae
+9	mbaepio
+10	la
+11	orekova
+12	pe
+13	Boselli
+14	,
+15	ni
+16	kururu
+17	ningo
+18	ndo
+19	shutai
+20	🤔🤔
+
+#test95: EL PAPA FRANCISCO EN PARAGUAY : 10 , 11 Y 12 DE JULIO Oîma ñane retâme , oîma ñande apytépe . Ha'e ohayhu ñane ñe'ê
+1	EL
+2	PAPA
+3	FRANCISCO
+4	EN
+5	PARAGUAY
+6	:
+7	10
+8	,
+9	11
+10	Y
+11	12
+12	DE
+13	JULIO
+14	Oîma
+15	ñane
+16	retâme
+17	,
+18	oîma
+19	ñande
+20	apytépe
+21	.
+22	Ha'e
+23	ohayhu
+24	ñane
+25	ñe'ê
+
+#test96: Ha upei los Licenciado kuera , pemoi mimi pio ?
+1	Ha
+2	upei
+3	los
+4	Licenciado
+5	kuera
+6	,
+7	pemoi
+8	mimi
+9	pio
+10	?
+
+#test97: Pya'ete romba'apóta umi centro de rehabilitación mitãrusu ha mitãkuñanguéra oñereinserta ñande sociedad-pe .
+1	Pya'ete
+2	romba'apóta
+3	umi
+4	centro
+5	de
+6	rehabilitación
+7	mitãrusu
+8	ha
+9	mitãkuñanguéra
+10	oñereinserta
+11	ñande
+12	sociedad-pe
+13	.
+
+#test98: Pomberoicha ivai ha iñaña jey . Orekopaite voi . Si nde vai al menos tenés que ser buena persona y no querer cagarle a otras personas .
+1	Pomberoicha
+2	ivai
+3	ha
+4	iñaña
+5	jey
+6	.
+7	Orekopaite
+8	voi
+9	.
+10	Si
+11	nde
+12	vai
+13	al
+14	menos
+15	tenés
+16	que
+17	ser
+18	buena
+19	persona
+20	y
+21	no
+22	querer
+23	cagarle
+24	a
+25	otras
+26	personas
+27	.
+
+#test99: Arareñóime opa mba'e iñambue
+1	Arareñóime
+2	opa
+3	mba'e
+4	iñambue
+
+#test100: Ramírez otaky confianza ministro de Educación , Eduardo Petta , orekóva capacidad sistema educativo oipyhýva sistema ojeporúva internet rupive , ko’ápe Ministerio de Educación y Ciencias ( MEC ) omokyre’ÿva plataforma educativa digital .
+1	Ramírez
+2	otaky
+3	confianza
+4	ministro
+5	de
+6	Educación
+7	,
+8	Eduardo
+9	Petta
+10	,
+11	orekóva
+12	capacidad
+13	sistema
+14	educativo
+15	oipyhýva
+16	sistema
+17	ojeporúva
+18	internet
+19	rupive
+20	,
+21	ko’ápe
+22	Ministerio
+23	de
+24	Educación
+25	y
+26	Ciencias
+27	(
+28	MEC
+29	)
+30	omokyre’ÿva
+31	plataforma
+32	educativa
+33	digital
+34	.
+
+#test101: Ko'ápe ko'ã chokokue ojoaju Ministerio de Agricultura y Ganadería ( MAG ) periodo Horacio Cartes , ome'êva comité agricultores tractores araje-pe guarã ha omokyre'ÿ pulverización ñemitÿ rehe noipytyvõiva ojeporu porã haguã yvy .
+1	Ko'ápe
+2	ko'ã
+3	chokokue
+4	ojoaju
+5	Ministerio
+6	de
+7	Agricultura
+8	y
+9	Ganadería
+10	(
+11	MAG
+12	)
+13	periodo
+14	Horacio
+15	Cartes
+16	,
+17	ome'êva
+18	comité
+19	agricultores
+20	tractores
+21	araje-pe
+22	guarã
+23	ha
+24	omokyre'ÿ
+25	pulverización
+26	ñemitÿ
+27	rehe
+28	noipytyvõiva
+29	ojeporu
+30	porã
+31	haguã
+32	yvy
+33	.
+
+#test102: Péicha umi maranduhára comunitario ogueromandu’a ha omomba’eguasu yvyramáta ha monte intacto kuaandy umi pueblo indígena-kuéra , oimeháme , ojuhúvo hi’upyrã , ohechávo umi pohã salud-pe guarã .
+1	Péicha
+2	umi
+3	maranduhára
+4	comunitario
+5	ogueromandu’a
+6	ha
+7	omomba’eguasu
+8	yvyramáta
+9	ha
+10	monte
+11	intacto
+12	kuaandy
+13	umi
+14	pueblo
+15	indígena-kuéra
+16	,
+17	oimeháme
+18	,
+19	ojuhúvo
+20	hi’upyrã
+21	,
+22	ohechávo
+23	umi
+24	pohã
+25	salud-pe
+26	guarã
+27	.
+
+#test103: Nde mbae jajapota , así es la vida .
+1	Nde
+2	mbae
+3	jajapota
+4	,
+5	así
+6	es
+7	la
+8	vida
+9	.
+
+#test104: Marito ojerúre ñemoirü Partido Colorado oguahëvo victorioso elecciones abril oúvape .
+1	Marito
+2	ojerúre
+3	ñemoirü
+4	Partido
+5	Colorado
+6	oguahëvo
+7	victorioso
+8	elecciones
+9	abril
+10	oúvape
+11	.
+
+#test105: Ko’áĝaiko mba’e ára , he’íje farra-hápe iko’êmbava’ekue .
+1	Ko’áĝaiko
+2	mba’e
+3	ára
+4	,
+5	he’íje
+6	farra-hápe
+7	iko’êmbava’ekue
+8	.
+
+#test106: El kururu ( sapo ) en la cultura Guarani y paraguaya URL
+1	El
+2	kururu
+3	(
+4	sapo
+5	)
+6	en
+7	la
+8	cultura
+9	Guarani
+10	y
+11	paraguaya
+12	URL
+
+#test107: @USER tomboguerohory nde eveni haguere al club olimpia maitei 🙏🏻 ha exito ha osali porãpa ndeve las cosas
+1	@USER
+2	tomboguerohory
+3	nde
+4	eveni
+5	haguere
+6	al
+7	club
+8	olimpia
+9	maitei
+10	🙏🏻
+11	ha
+12	exito
+13	ha
+14	osali
+15	porãpa
+16	ndeve
+17	las
+18	cosas
+
+#test108: MARANDU REÑOIHAGUE : “ Aranduka Itaju Tetâ Tavaguasu Mbo'ehaoguigua ” ohaiva'ekue tembikuaajára Angel Domingo Sosa .
+1	MARANDU
+2	REÑOIHAGUE
+3	:
+4	“
+5	Aranduka
+6	Itaju
+7	Tetâ
+8	Tavaguasu
+9	Mbo'ehaoguigua
+10	”
+11	ohaiva'ekue
+12	tembikuaajára
+13	Angel
+14	Domingo
+15	Sosa
+16	.
+
+#test109: @USER A vos pico quien te pregunto nde tembo , ekañy a tu país mbae 🙄🙄🙄🙄
+1	@USER
+2	A
+3	vos
+4	pico
+5	quien
+6	te
+7	pregunto
+8	nde
+9	tembo
+10	,
+11	ekañy
+12	a
+13	tu
+14	país
+15	mbae
+16	🙄🙄🙄🙄
+
+#test110: Ñemopotî Tekoha pyhareve guive oñepyrûvo organización civil “ Guardianes del Bosque ” .
+1	Ñemopotî
+2	Tekoha
+3	pyhareve
+4	guive
+5	oñepyrûvo
+6	organización
+7	civil
+8	“
+9	Guardianes
+10	del
+11	Bosque
+12	”
+13	.
+
+#test111: Empresa Palermo , Grupo Cartes , ombohovái cruce de llamada investigación rehegua upe 31M .
+1	Empresa
+2	Palermo
+3	,
+4	Grupo
+5	Cartes
+6	,
+7	ombohovái
+8	cruce
+9	de
+10	llamada
+11	investigación
+12	rehegua
+13	upe
+14	31M
+15	.
+
+#test112: @USER Ña môkô py ! - No lunes no es día para 🍻🍻🥃 E'a ! pea ndaha'ei jarabe emoî haguâ ichupe día y hora .
+1	@USER
+2	Ña
+3	môkô
+4	py
+5	!
+6	-
+7	No
+8	lunes
+9	no
+10	es
+11	día
+12	para
+13	🍻🍻🥃
+14	E'a
+15	!
+16	pea
+17	ndaha'ei
+18	jarabe
+19	emoî
+20	haguâ
+21	ichupe
+22	día
+23	y
+24	hora
+25	.
+
+#test113: Guarani niko yma ymaite guive ha ko’ag̃aite peve ojeporu oñeñomongeta ha ojejokupyty hag̃ua ñane retãme . Guarani niko ñane ñe’ẽ ; guarani ñane moambue ; guarani ñande apo upe ñande haichaite ... he’iséva ñanembo Paraguái reko . Ñambojajáikena akóinte ñane guarani ! @USER
+1	Guarani
+2	niko
+3	yma
+4	ymaite
+5	guive
+6	ha
+7	ko’ag̃aite
+8	peve
+9	ojeporu
+10	oñeñomongeta
+11	ha
+12	ojejokupyty
+13	hag̃ua
+14	ñane
+15	retãme
+16	.
+17	Guarani
+18	niko
+19	ñane
+20	ñe’ẽ
+21	;
+22	guarani
+23	ñane
+24	moambue
+25	;
+26	guarani
+27	ñande
+28	apo
+29	upe
+30	ñande
+31	haichaite
+32	...
+33	he’iséva
+34	ñanembo
+35	Paraguái
+36	reko
+37	.
+38	Ñambojajáikena
+39	akóinte
+40	ñane
+41	guarani
+42	!
+43	@USER
+
+#test114: @USER Ahora nde inutiletema ara para hacer de chacha . Anda estudia mbae para no andar de chacha sin sueldo
+1	@USER
+2	Ahora
+3	nde
+4	inutiletema
+5	ara
+6	para
+7	hacer
+8	de
+9	chacha
+10	.
+11	Anda
+12	estudia
+13	mbae
+14	para
+15	no
+16	andar
+17	de
+18	chacha
+19	sin
+20	sueldo
+
+#test115: Umi firma otercerisáva IPS ha'eháicha Cevima SA , omopotîva umi dependencia , ndopagái 18 mba'apohára Ciudad del Este-guápe .
+1	Umi
+2	firma
+3	otercerisáva
+4	IPS
+5	ha'eháicha
+6	Cevima
+7	SA
+8	,
+9	omopotîva
+10	umi
+11	dependencia
+12	,
+13	ndopagái
+14	18
+15	mba'apohára
+16	Ciudad
+17	del
+18	Este-guápe
+19	.
+
+#test116: Péicha ary 2016 joajúvo oheja cobertura médica-pe umi familia oikóva situación vulnerables , Ayolas jerére , ha he'íva ivaiha calidad servicio IPS oñembyaíva Centro de Salud oguahëvo .
+1	Péicha
+2	ary
+3	2016
+4	joajúvo
+5	oheja
+6	cobertura
+7	médica-pe
+8	umi
+9	familia
+10	oikóva
+11	situación
+12	vulnerables
+13	,
+14	Ayolas
+15	jerére
+16	,
+17	ha
+18	he'íva
+19	ivaiha
+20	calidad
+21	servicio
+22	IPS
+23	oñembyaíva
+24	Centro
+25	de
+26	Salud
+27	oguahëvo
+28	.
+
+#test117: Centro Creativo y Cultural para el Desarrollo Primera Infancia " Torore " oñemoherakuãta ko'êrõ 8:00 aravo jave Gobernación Departamento Central , omomoñepyrûva oisãmbyhy mitãnguéra mimi 1 a 3 año
+1	Centro
+2	Creativo
+3	y
+4	Cultural
+5	para
+6	el
+7	Desarrollo
+8	Primera
+9	Infancia
+10	"
+11	Torore
+12	"
+13	oñemoherakuãta
+14	ko'êrõ
+15	8:00
+16	aravo
+17	jave
+18	Gobernación
+19	Departamento
+20	Central
+21	,
+22	omomoñepyrûva
+23	oisãmbyhy
+24	mitãnguéra
+25	mimi
+26	1
+27	a
+28	3
+29	año
+
+#test118: Ojehecha momento delicado ocupación yvate umi tupa terapia intensiva disponible tetãme péva sumamente importante opavave roñopytyvõ romboguejy ramo ritmo de contagio .
+1	Ojehecha
+2	momento
+3	delicado
+4	ocupación
+5	yvate
+6	umi
+7	tupa
+8	terapia
+9	intensiva
+10	disponible
+11	tetãme
+12	péva
+13	sumamente
+14	importante
+15	opavave
+16	roñopytyvõ
+17	romboguejy
+18	ramo
+19	ritmo
+20	de
+21	contagio
+22	.
+
+#test119: “ Omoañete misiónoutáva Paraguáipe ha ohechauka ñe'ê añete ojeipysóva UE guive elecciones oguerovia hesakã ha ijeroviapýva tetãme ” , omoañete alta representante Política Exterior Europea , Federica Mogherini .
+1	“
+2	Omoañete
+3	misiónoutáva
+4	Paraguáipe
+5	ha
+6	ohechauka
+7	ñe'ê
+8	añete
+9	ojeipysóva
+10	UE
+11	guive
+12	elecciones
+13	oguerovia
+14	hesakã
+15	ha
+16	ijeroviapýva
+17	tetãme
+18	”
+19	,
+20	omoañete
+21	alta
+22	representante
+23	Política
+24	Exterior
+25	Europea
+26	,
+27	Federica
+28	Mogherini
+29	.
+
+#test120: Senador Luis Castiglioni , afiliado movimiento disidente , he'íva oplanea reunión bancada ohechávo “ exclusivamente ” tema Cartes renuncia .
+1	Senador
+2	Luis
+3	Castiglioni
+4	,
+5	afiliado
+6	movimiento
+7	disidente
+8	,
+9	he'íva
+10	oplanea
+11	reunión
+12	bancada
+13	ohechávo
+14	“
+15	exclusivamente
+16	”
+17	tema
+18	Cartes
+19	renuncia
+20	.
+
+#test121: Tuicha mba'e chupekuéra oñomongetávo presidente de la República dive ha ikatúva oime lucha ha ikatúva osê porã umi ára oúvape ” , omoañete ministro de Defensa .
+1	Tuicha
+2	mba'e
+3	chupekuéra
+4	oñomongetávo
+5	presidente
+6	de
+7	la
+8	República
+9	dive
+10	ha
+11	ikatúva
+12	oime
+13	lucha
+14	ha
+15	ikatúva
+16	osê
+17	porã
+18	umi
+19	ára
+20	oúvape
+21	”
+22	,
+23	omoañete
+24	ministro
+25	de
+26	Defensa
+27	.
+
+#test122: Oimehápe funcionario estatal ha privado , orekóva uumi omoheñóiva negocio jurídico ha beneficio patrimonial ” , he’i upe Fiscalía imputación .
+1	Oimehápe
+2	funcionario
+3	estatal
+4	ha
+5	privado
+6	,
+7	orekóva
+8	uumi
+9	omoheñóiva
+10	negocio
+11	jurídico
+12	ha
+13	beneficio
+14	patrimonial
+15	”
+16	,
+17	he’i
+18	upe
+19	Fiscalía
+20	imputación
+21	.
+
+#test123: Mba'e ñe'ẽ guaraníme pehayhuve ? ¿ Cuál es su palabra favorita en guaraní ?
+1	Mba'e
+2	ñe'ẽ
+3	guaraníme
+4	pehayhuve
+5	?
+6	¿
+7	Cuál
+8	es
+9	su
+10	palabra
+11	favorita
+12	en
+13	guaraní
+14	?
+
+#test124: Pedime nomas , ajapota avei ndeve . URL
+1	Pedime
+2	nomas
+3	,
+4	ajapota
+5	avei
+6	ndeve
+7	.
+8	URL
+
+#test125: Anike oñembo puntos mba'e Bolivia ñande rehe 😴
+1	Anike
+2	oñembo
+3	puntos
+4	mba'e
+5	Bolivia
+6	ñande
+7	rehe
+8	😴
+
+#test126: Murga ha'ete voi “ añao ” osê odefende haguã ita'ýra , senador cartista , oñeinvestigáva ko'ágã evasión de impuesto rehe
+1	Murga
+2	ha'ete
+3	voi
+4	“
+5	añao
+6	”
+7	osê
+8	odefende
+9	haguã
+10	ita'ýra
+11	,
+12	senador
+13	cartista
+14	,
+15	oñeinvestigáva
+16	ko'ágã
+17	evasión
+18	de
+19	impuesto
+20	rehe
+
+#test127: Che aipota avei :(
+1	Che
+2	aipota
+3	avei
+4	:(
+
+#test128: Ipôraiterei Arevalos ..! Pojopy ndeve güârâ ..!
+1	Ipôraiterei
+2	Arevalos
+3	..!
+4	Pojopy
+5	ndeve
+6	güârâ
+7	..!
+
+#test129: Tojahu hikuái nde ratypykuápe upe ka'aru …. Tengo el placer de entender el guarani
+1	Tojahu
+2	hikuái
+3	nde
+4	ratypykuápe
+5	upe
+6	ka'aru
+7	….
+8	Tengo
+9	el
+10	placer
+11	de
+12	entender
+13	el
+14	guarani
+
+#test130: Ndaikuaai mba'erepa otî lo mitá oñe'ehagûa guaranime . Ñande nio paraguaigua .
+1	Ndaikuaai
+2	mba'erepa
+3	otî
+4	lo
+5	mitá
+6	oñe'ehagûa
+7	guaranime
+8	.
+9	Ñande
+10	nio
+11	paraguaigua
+12	.
+
+#test131: Péicha cuestionamiento Senad orekóva microtraficante , oîva jeguata upe jerére tetã pukukue .
+1	Péicha
+2	cuestionamiento
+3	Senad
+4	orekóva
+5	microtraficante
+6	,
+7	oîva
+8	jeguata
+9	upe
+10	jerére
+11	tetã
+12	pukukue
+13	.
+
+#test132: Mborayhu niko tembipuru imbaretevéva
+1	Mborayhu
+2	niko
+3	tembipuru
+4	imbaretevéva
+
+#test133: Ojeguerohory kuña okaraygua ára URL
+1	Ojeguerohory
+2	kuña
+3	okaraygua
+4	ára
+5	URL
+
+#test134: Viva mi general he'i 🤣 ni ndoikuai jepe chupe 😳🤣
+1	Viva
+2	mi
+3	general
+4	he'i
+5	🤣
+6	ni
+7	ndoikuai
+8	jepe
+9	chupe
+10	😳🤣
+
+#test135: Mba'eichapa oje'e guaraníme " carpeta creativa " ?? 🤔🤔 #tavaranduara URL
+1	Mba'eichapa
+2	oje'e
+3	guaraníme
+4	"
+5	carpeta
+6	creativa
+7	"
+8	??
+9	🤔🤔
+10	#tavaranduara
+11	URL
+
+#test136: “ Ojerurévo omohenda haguã umi comerciante Mercado 4 kóva upe pasillo ohechaukáva noïrîha organizado .
+1	“
+2	Ojerurévo
+3	omohenda
+4	haguã
+5	umi
+6	comerciante
+7	Mercado
+8	4
+9	kóva
+10	upe
+11	pasillo
+12	ohechaukáva
+13	noïrîha
+14	organizado
+15	.
+
+#test137: Ko’ã mejora ohupyty US$ 3.5 millones ha upe aty propagandarante ovale .
+1	Ko’ã
+2	mejora
+3	ohupyty
+4	US$
+5	3.5
+6	millones
+7	ha
+8	upe
+9	aty
+10	propagandarante
+11	ovale
+12	.
+
+#test138: Ko’ã propuesta oreko consensuada peteî grupo senadores bancada hetavéva .
+1	Ko’ã
+2	propuesta
+3	oreko
+4	consensuada
+5	peteî
+6	grupo
+7	senadores
+8	bancada
+9	hetavéva
+10	.
+
+#test139: Obispo ohenói omombarete haguã fe ha odefende haguã tekove
+1	Obispo
+2	ohenói
+3	omombarete
+4	haguã
+5	fe
+6	ha
+7	odefende
+8	haguã
+9	tekove
+
+#test140: PÑS-PE OÑEMBOJOPÓI ÑE’ẼRYRU GUARANÍME TEKOJOJARÃ REHEGUA URL
+1	PÑS-PE
+2	OÑEMBOJOPÓI
+3	ÑE’ẼRYRU
+4	GUARANÍME
+5	TEKOJOJARÃ
+6	REHEGUA
+7	URL
+
+#test141: @USER nde pico nderequi mbae pe escrbina guaranime mbae ani la inglepe guau pe nee cuaaiterei la inglepe
+1	@USER
+2	nde
+3	pico
+4	nderequi
+5	mbae
+6	pe
+7	escrbina
+8	guaranime
+9	mbae
+10	ani
+11	la
+12	inglepe
+13	guau
+14	pe
+15	nee
+16	cuaaiterei
+17	la
+18	inglepe
+
+#test142: Minibuses pasajero oguapýva .
+1	Minibuses
+2	pasajero
+3	oguapýva
+4	.
+
+#test143: Jepopete Têtâ sambyhyharape ..! Peina ñanemoramduma : YAPYTAPAITETA ÑANDE ROGAPE , 12 ABRIL PEVE ..! Maymaiteva , ikatuhaicha , ñaipytyvô umi ñande rapicha oikoteveape . Ikatu guive tojapo tembi'u hetapôrâ , ha tome'e mita , kuñakarai ha karai mboriahupe .. Ta'upeicha ..!
+1	Jepopete
+2	Têtâ
+3	sambyhyharape
+4	..!
+5	Peina
+6	ñanemoramduma
+7	:
+8	YAPYTAPAITETA
+9	ÑANDE
+10	ROGAPE
+11	,
+12	12
+13	ABRIL
+14	PEVE
+15	..!
+16	Maymaiteva
+17	,
+18	ikatuhaicha
+19	,
+20	ñaipytyvô
+21	umi
+22	ñande
+23	rapicha
+24	oikoteveape
+25	.
+26	Ikatu
+27	guive
+28	tojapo
+29	tembi'u
+30	hetapôrâ
+31	,
+32	ha
+33	tome'e
+34	mita
+35	,
+36	kuñakarai
+37	ha
+38	karai
+39	mboriahupe
+40	..
+41	Ta'upeicha
+42	..!
+
+#test144: Oikove jey Evelyn
+1	Oikove
+2	jey
+3	Evelyn
+
+#test145: Por cuota mba'e piko ejapo la nde lista
+1	Por
+2	cuota
+3	mba'e
+4	piko
+5	ejapo
+6	la
+7	nde
+8	lista
+
+#test146: @USER Terere hei JAJAJAJAJAJA esos 4 sándwich que comprábamos 😭
+1	@USER
+2	Terere
+3	hei
+4	JAJAJAJAJAJA
+5	esos
+6	4
+7	sándwich
+8	que
+9	comprábamos
+10	😭
+
+#test147: Hetama aka'u nde rerape 🍻
+1	Hetama
+2	aka'u
+3	nde
+4	rerape
+5	🍻
+
+#test148: Upéicha ára 7 jasypoteî ary 1917-pe , táva Chicago , Estados Unidos-pe ; oñemboajékuri Leô Atyha ha jasypa upe aryguápe táva Dallas , Texas-pe oñemboajékuri upe atyha rekoguataha ha rekombojojaha ha upéicha avei ijehupytyrâ ha tekopotî mbohapeha .
+1	Upéicha
+2	ára
+3	7
+4	jasypoteî
+5	ary
+6	1917-pe
+7	,
+8	táva
+9	Chicago
+10	,
+11	Estados
+12	Unidos-pe
+13	;
+14	oñemboajékuri
+15	Leô
+16	Atyha
+17	ha
+18	jasypa
+19	upe
+20	aryguápe
+21	táva
+22	Dallas
+23	,
+24	Texas-pe
+25	oñemboajékuri
+26	upe
+27	atyha
+28	rekoguataha
+29	ha
+30	rekombojojaha
+31	ha
+32	upéicha
+33	avei
+34	ijehupytyrâ
+35	ha
+36	tekopotî
+37	mbohapeha
+38	.
+
+#test149: @USER jajajajajajja M O O P I O españolita jajajaja eikuaasepa mba'eicha ojescribi guaranime ? EUKUAASEPA ?
+1	@USER
+2	jajajajajajja
+3	M
+4	O
+5	O
+6	P
+7	I
+8	O
+9	españolita
+10	jajajaja
+11	eikuaasepa
+12	mba'eicha
+13	ojescribi
+14	guaranime
+15	?
+16	EUKUAASEPA
+17	?
+
+#test150: ¿ Ña tî jahai haguâ guaranime ? Terâ guarani ñe´e ndaha´ei " tecnológico " ?
+1	¿
+2	Ña
+3	tî
+4	jahai
+5	haguâ
+6	guaranime
+7	?
+8	Terâ
+9	guarani
+10	ñe´e
+11	ndaha´ei
+12	"
+13	tecnológico
+14	"
+15	?
+
+#test151: @USER Eme'ê nde retépe vy'a Makarena ... (8)
+1	@USER
+2	Eme'ê
+3	nde
+4	retépe
+5	vy'a
+6	Makarena
+7	...
+8	(8)
+
+#test152: Péva ogueraha mitãpyahu 15 a 29 ary , ha móto ári que son los principales protagonistas de
+1	Péva
+2	ogueraha
+3	mitãpyahu
+4	15
+5	a
+6	29
+7	ary
+8	,
+9	ha
+10	móto
+11	ári
+12	que
+13	son
+14	los
+15	principales
+16	protagonistas
+17	de
+
+#test153: @USER Aguante Ara katu
+1	@USER
+2	Aguante
+3	Ara
+4	katu
+
+#test154: Fiscal general del Estado Javier Díaz Verón , omoherakuã “ ojeruré permiso ” oñemboyke ha titularidad Ministerio Público “ bienestar de su familia ” , ohekávo investigación en su contra .
+1	Fiscal
+2	general
+3	del
+4	Estado
+5	Javier
+6	Díaz
+7	Verón
+8	,
+9	omoherakuã
+10	“
+11	ojeruré
+12	permiso
+13	”
+14	oñemboyke
+15	ha
+16	titularidad
+17	Ministerio
+18	Público
+19	“
+20	bienestar
+21	de
+22	su
+23	familia
+24	”
+25	,
+26	ohekávo
+27	investigación
+28	en
+29	su
+30	contra
+31	.
+
+#test155: Ko'ápe , ha pya'ete discurso , Horacio Cartes omoañete ndaha'éiha tiempo de revanchismo ha péicha omba'apova'erã lista 1 rehe .
+1	Ko'ápe
+2	,
+3	ha
+4	pya'ete
+5	discurso
+6	,
+7	Horacio
+8	Cartes
+9	omoañete
+10	ndaha'éiha
+11	tiempo
+12	de
+13	revanchismo
+14	ha
+15	péicha
+16	omba'apova'erã
+17	lista
+18	1
+19	rehe
+20	.
+
+#test156: Oñepyrûva jornada omotenondéva celebración religiosa oisãmbyhýva monseñor Mario Melanio Medina , upéi , pobladores omoirûva procesión orekóva santa imagen .
+1	Oñepyrûva
+2	jornada
+3	omotenondéva
+4	celebración
+5	religiosa
+6	oisãmbyhýva
+7	monseñor
+8	Mario
+9	Melanio
+10	Medina
+11	,
+12	upéi
+13	,
+14	pobladores
+15	omoirûva
+16	procesión
+17	orekóva
+18	santa
+19	imagen
+20	.
+
+#test157: @USER Te falto el clásico de la lupa , llorón !!! Anda lava tu tanga mbae nde drogadicto !!!
+1	@USER
+2	Te
+3	falto
+4	el
+5	clásico
+6	de
+7	la
+8	lupa
+9	,
+10	llorón
+11	!!!
+12	Anda
+13	lava
+14	tu
+15	tanga
+16	mbae
+17	nde
+18	drogadicto
+19	!!!
+
+#test158: Ñamokõva'erã “ kururu ” pero ndaha'éi péicha .
+1	Ñamokõva'erã
+2	“
+3	kururu
+4	”
+5	pero
+6	ndaha'éi
+7	péicha
+8	.
+
+#test159: PÑS mba'apohára pyahu jeporavorã - Llamado a Concurso de la SPL .
+1	PÑS
+2	mba'apohára
+3	pyahu
+4	jeporavorã
+5	-
+6	Llamado
+7	a
+8	Concurso
+9	de
+10	la
+11	SPL
+12	.
+
+#test160: Nde bolsillo rasy mba’e pío profe . Eguenohena la tarjeta che papá 🙄🙄
+1	Nde
+2	bolsillo
+3	rasy
+4	mba’e
+5	pío
+6	profe
+7	.
+8	Eguenohena
+9	la
+10	tarjeta
+11	che
+12	papá
+13	🙄🙄
+
+#test161: Mario Abdo oguahê mbohupárõ Tañarandýpe
+1	Mario
+2	Abdo
+3	oguahê
+4	mbohupárõ
+5	Tañarandýpe
+
+#test162: “ Karai , eho nde rógape ” , dirá la policía a los que vayan a Caacupé URL
+1	“
+2	Karai
+3	,
+4	eho
+5	nde
+6	rógape
+7	”
+8	,
+9	dirá
+10	la
+11	policía
+12	a
+13	los
+14	que
+15	vayan
+16	a
+17	Caacupé
+18	URL
+
+#test163: Estudiantes de Fenaes ombosako’i movilización oñeikotevêgui mbo’ehára
+1	Estudiantes
+2	de
+3	Fenaes
+4	ombosako’i
+5	movilización
+6	oñeikotevêgui
+7	mbo’ehára
+
+#test164: Péicha , Fleitas ojepytaso presupuesto ojeguerekóva umi becakuéra oïva rehe umi temimbo'e imboriahuvéva rehe ha ojoajúo umi centros de estudiantes ha umi firma privada oike haguã omba'apo .
+1	Péicha
+2	,
+3	Fleitas
+4	ojepytaso
+5	presupuesto
+6	ojeguerekóva
+7	umi
+8	becakuéra
+9	oïva
+10	rehe
+11	umi
+12	temimbo'e
+13	imboriahuvéva
+14	rehe
+15	ha
+16	ojoajúo
+17	umi
+18	centros
+19	de
+20	estudiantes
+21	ha
+22	umi
+23	firma
+24	privada
+25	oike
+26	haguã
+27	omba'apo
+28	.
+
+#test165: Oñemoherakuãva grupo piribebuiense “ Tercera Capital ” omotenonde emotivo homenaje opavave túva hi'arape .
+1	Oñemoherakuãva
+2	grupo
+3	piribebuiense
+4	“
+5	Tercera
+6	Capital
+7	”
+8	omotenonde
+9	emotivo
+10	homenaje
+11	opavave
+12	túva
+13	hi'arape
+14	.
+
+#test166: Cuando todo está peor ... más debemos insistir ! Opaite mba'e oho vaive jave ... ñañeha'âvéva'erâ !
+1	Cuando
+2	todo
+3	está
+4	peor
+5	...
+6	más
+7	debemos
+8	insistir
+9	!
+10	Opaite
+11	mba'e
+12	oho
+13	vaive
+14	jave
+15	...
+16	ñañeha'âvéva'erâ
+17	!
+
+#test167: Juez Amarilla oiko imputación Ferreiro Paz ha Ferreiro Ayala fiscal omombe’úva “ sucintamente el o los hechos ” penales oñeme’êva , péva ohai ko’ã grupo Telegram ojapóva red de recaudación paralela , ome’ê ÿre detalle modus operandi .
+1	Juez
+2	Amarilla
+3	oiko
+4	imputación
+5	Ferreiro
+6	Paz
+7	ha
+8	Ferreiro
+9	Ayala
+10	fiscal
+11	omombe’úva
+12	“
+13	sucintamente
+14	el
+15	o
+16	los
+17	hechos
+18	”
+19	penales
+20	oñeme’êva
+21	,
+22	péva
+23	ohai
+24	ko’ã
+25	grupo
+26	Telegram
+27	ojapóva
+28	red
+29	de
+30	recaudación
+31	paralela
+32	,
+33	ome’ê
+34	ÿre
+35	detalle
+36	modus
+37	operandi
+38	.
+
+#test168: @USER Nde porã katu
+1	@USER
+2	Nde
+3	porã
+4	katu
+
+#test169: @USER corre lejos katu de ese hospital , ani te contagias loca
+1	@USER
+2	corre
+3	lejos
+4	katu
+5	de
+6	ese
+7	hospital
+8	,
+9	ani
+10	te
+11	contagias
+12	loca
+
+#test170: Umi genuino alberdeño , opa ohóvo mbeguekatúpe
+1	Umi
+2	genuino
+3	alberdeño
+4	,
+5	opa
+6	ohóvo
+7	mbeguekatúpe
+
+#test171: Aikese che r .. kuápe
+1	Aikese
+2	che
+3	r
+4	..
+5	kuápe
+
+#test172: @USER Ovya ha'e por demostrar ignorancia , la tavy ndandejukai pero nde reko asy .
+1	@USER
+2	Ovya
+3	ha'e
+4	por
+5	demostrar
+6	ignorancia
+7	,
+8	la
+9	tavy
+10	ndandejukai
+11	pero
+12	nde
+13	reko
+14	asy
+15	.
+
+#test173: Ojerúre pytyvõ pueblo indígena oimehápe ko territorio .
+1	Ojerúre
+2	pytyvõ
+3	pueblo
+4	indígena
+5	oimehápe
+6	ko
+7	territorio
+8	.
+
+#test174: #ParaguáiMarandu @USER ohechakuaa ñe’ê guaraní ymaguare . @USER
+1	#ParaguáiMarandu
+2	@USER
+3	ohechakuaa
+4	ñe’ê
+5	guaraní
+6	ymaguare
+7	.
+8	@USER
+
+#test175: Gobierno Juan Carlos Wasmosy oñepresenta peteî maqueta ha oñemohenda ita fundacional zona Botánico .
+1	Gobierno
+2	Juan
+3	Carlos
+4	Wasmosy
+5	oñepresenta
+6	peteî
+7	maqueta
+8	ha
+9	oñemohenda
+10	ita
+11	fundacional
+12	zona
+13	Botánico
+14	.
+
+#test176: Asociación de Vendedores Ambulantes del Paraguay omoherakuã convocatoria general oipysóva 8:30 viaducto Calle Última guýre .
+1	Asociación
+2	de
+3	Vendedores
+4	Ambulantes
+5	del
+6	Paraguay
+7	omoherakuã
+8	convocatoria
+9	general
+10	oipysóva
+11	8:30
+12	viaducto
+13	Calle
+14	Última
+15	guýre
+16	.
+
+#test177: Mburuvicha guasu ha’ete oho oñomongeta hendivekuéra “ mba’apohára ” , ogueraháva pytyvõ incondicional ichupe ha ohasávo “ osepilla ” ministra de Trabajo , Carla Bacigalupo-pe , ohenóiva’ekue chupekuéra “ protesta jave ” ombotovévo juicio político , ojeipysóva upe tendáre .
+1	Mburuvicha
+2	guasu
+3	ha’ete
+4	oho
+5	oñomongeta
+6	hendivekuéra
+7	“
+8	mba’apohára
+9	”
+10	,
+11	ogueraháva
+12	pytyvõ
+13	incondicional
+14	ichupe
+15	ha
+16	ohasávo
+17	“
+18	osepilla
+19	”
+20	ministra
+21	de
+22	Trabajo
+23	,
+24	Carla
+25	Bacigalupo-pe
+26	,
+27	ohenóiva’ekue
+28	chupekuéra
+29	“
+30	protesta
+31	jave
+32	”
+33	ombotovévo
+34	juicio
+35	político
+36	,
+37	ojeipysóva
+38	upe
+39	tendáre
+40	.
+
+#test178: @USER nde porã es pero acepto , nde nde porã avei
+1	@USER
+2	nde
+3	porã
+4	es
+5	pero
+6	acepto
+7	,
+8	nde
+9	nde
+10	porã
+11	avei
+
+#test179: Unidad de Delitos Económicos Fiscalía omotenondéva kuehe poapy allanamiento Itapúa -pe .
+1	Unidad
+2	de
+3	Delitos
+4	Económicos
+5	Fiscalía
+6	omotenondéva
+7	kuehe
+8	poapy
+9	allanamiento
+10	Itapúa
+11	-pe
+12	.
+
+#test180: Ani ejavy la nde rape
+1	Ani
+2	ejavy
+3	la
+4	nde
+5	rape
+

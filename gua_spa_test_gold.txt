@@ -1,0 +1,3217 @@
+#test1: Igusto ñañe'ẽ guaranime ha avei japurahéi umi polka ha guarania
+1	Igusto	mix
+2	ñañe'ẽ	gn
+3	guaranime	gn
+4	ha	gn
+5	avei	gn
+6	japurahéi	gn
+7	umi	gn
+8	polka	foreign
+9	ha	gn
+10	guarania	es-b-ul
+
+#test2: @USER Buenas buenas mbaeichapa nde ko'ē kuña guapa feliz sábado para ti Melly vaaaaamoooos queeeeeee fuerza
+1	@USER	ne-b-per
+2	Buenas	es-b-cc
+3	buenas	es-i-cc
+4	mbaeichapa	gn
+5	nde	gn
+6	ko'ē	gn
+7	kuña	gn
+8	guapa	gn
+9	feliz	es-b-cc
+10	sábado	es-i-cc
+11	para	es-i-cc
+12	ti	es-i-cc
+13	Melly	ne-b-per
+14	vaaaaamoooos	es-b-cc
+15	queeeeeee	es-i-cc
+16	fuerza	es-i-cc
+
+#test3: Idioma-Guarani : LA ESPIRITUALIDAD Y LA COSMOVISIÓN DEL MUNDO GUARA ... URL
+1	Idioma-Guarani	es-b-cc
+2	:	other
+3	LA	es-b-cc
+4	ESPIRITUALIDAD	es-i-cc
+5	Y	es-i-cc
+6	LA	es-i-cc
+7	COSMOVISIÓN	es-i-cc
+8	DEL	es-i-cc
+9	MUNDO	es-i-cc
+10	GUARA	es-i-cc
+11	...	other
+12	URL	other
+
+#test4: Upévare ojapo ko atropello al Estado de Derecho , ha péva peteî acuerdo político “ Ndikatúi ningo ley omopyenda reglamentación oîva Constitución Nacional-pe .
+1	Upévare	gn
+2	ojapo	gn
+3	ko	gn
+4	atropello	es-b-ul
+5	al	es-i-ul
+6	Estado	es-b-ul
+7	de	es-i-ul
+8	Derecho	es-i-ul
+9	,	other
+10	ha	gn
+11	péva	gn
+12	peteî	gn
+13	acuerdo	es-b-ul
+14	político	es-i-ul
+15	“	other
+16	Ndikatúi	gn
+17	ningo	gn
+18	ley	es-b-ul
+19	omopyenda	gn
+20	reglamentación	es-b-ul
+21	oîva	gn
+22	Constitución	es-b-ul
+23	Nacional-pe	es-i-ul
+24	.	other
+
+#test5: “ Ndikatúiva omonéî asesores jurídicos Itaipu ýrõ Yasyretã millonario salario ohekáva opytávo viru pueblo odestináva salud , educación ha desarrollo de las comunidades ” , omoañete .
+1	“	other
+2	Ndikatúiva	gn
+3	omonéî	gn
+4	asesores	es-b-ul
+5	jurídicos	es-i-ul
+6	Itaipu	ne-b-org
+7	ýrõ	gn
+8	Yasyretã	ne-b-org
+9	millonario	es-b-ul
+10	salario	es-i-ul
+11	ohekáva	gn
+12	opytávo	gn
+13	viru	gn
+14	pueblo	es-b-ul
+15	odestináva	mix
+16	salud	es-b-ul
+17	,	other
+18	educación	es-b-ul
+19	ha	gn
+20	desarrollo	es-b-cc
+21	de	es-i-cc
+22	las	es-i-cc
+23	comunidades	es-i-cc
+24	”	other
+25	,	other
+26	omoañete	gn
+27	.	other
+
+#test6: Noimei planeado pe reubicación ” , he'i Gladys Mancuello , comerciante Fernando de la Mora .
+1	Noimei	gn
+2	planeado	es-b-ul
+3	pe	gn
+4	reubicación	es-b-ul
+5	”	other
+6	,	other
+7	he'i	gn
+8	Gladys	ne-b-per
+9	Mancuello	ne-i-per
+10	,	other
+11	comerciante	es-b-ul
+12	Fernando	ne-b-loc
+13	de	ne-i-loc
+14	la	ne-i-loc
+15	Mora	ne-i-loc
+16	.	other
+
+#test7: Oime conductor omoañetévo nativo okobra “ peaje ” ohasávo hikuái .
+1	Oime	gn
+2	conductor	es-b-ul
+3	omoañetévo	gn
+4	nativo	es-b-ul
+5	okobra	mix
+6	“	other
+7	peaje	es-b-ul
+8	”	other
+9	ohasávo	gn
+10	hikuái	gn
+11	.	other
+
+#test8: Ko programa ohupyty 916 temimbo’épe ko’ã mbo’ehaópe tendáre .
+1	Ko	gn
+2	programa	es-b-ul
+3	ohupyty	gn
+4	916	other
+5	temimbo’épe	gn
+6	ko’ã	gn
+7	mbo’ehaópe	gn
+8	tendáre	gn
+9	.	other
+
+#test9: @USER El verdadero la Tavy nda Nde jukai pero Nde reko asy
+1	@USER	ne-b-per
+2	El	es-b-cc
+3	verdadero	es-i-cc
+4	la	es-i-cc
+5	Tavy	gn
+6	nda	gn
+7	Nde	gn
+8	jukai	gn
+9	pero	es-b-cc
+10	Nde	gn
+11	reko	gn
+12	asy	gn
+
+#test10: Oî ko hova´atâva ko´arupi ... ambopororóta hina umi hovakuera tovajepetepe ! peha´arônteke sapy´aitemi #ñaaaa
+1	Oî	gn
+2	ko	gn
+3	hova´atâva	gn
+4	ko´arupi	gn
+5	...	other
+6	ambopororóta	gn
+7	hina	gn
+8	umi	gn
+9	hovakuera	gn
+10	tovajepetepe	gn
+11	!	other
+12	peha´arônteke	gn
+13	sapy´aitemi	gn
+14	#ñaaaa	gn
+
+#test11: @USER Ekambuna hese nde tuja'i
+1	@USER	ne-b-per
+2	Ekambuna	gn
+3	hese	gn
+4	nde	gn
+5	tuja'i	gn
+
+#test12: Ha ha'e ohendu jave ko'ã , oñemo'i mbyasy eterei , ypyrehe ha'e ha'éva'ekue poky eterei . Lucas 0.765972222222222
+1	Ha	gn
+2	ha'e	gn
+3	ohendu	gn
+4	jave	gn
+5	ko'ã	gn
+6	,	other
+7	oñemo'i	gn
+8	mbyasy	gn
+9	eterei	gn
+10	,	other
+11	ypyrehe	gn
+12	ha'e	gn
+13	ha'éva'ekue	gn
+14	poky	gn
+15	eterei	gn
+16	.	other
+17	Lucas	ne-b-per
+18	0.765972222222222	other
+
+#test13: Tribunal Electoral Pilar-gua omoherakuã concejal pyahu departamental , ojeporavóva comicios generales ha departamental 22 de abril ohasava'ekuépe .
+1	Tribunal	ne-b-org
+2	Electoral	ne-i-org
+3	Pilar-gua	ne-i-org
+4	omoherakuã	gn
+5	concejal	es-b-ul
+6	pyahu	gn
+7	departamental	es-b-ul
+8	,	other
+9	ojeporavóva	gn
+10	comicios	es-b-ul
+11	generales	es-i-ul
+12	ha	gn
+13	departamental	es-b-cc
+14	22	other
+15	de	es-b-ul
+16	abril	es-i-ul
+17	ohasava'ekuépe	gn
+18	.	other
+
+#test14: Upéicha avei oñeme'ê chupe heta ambue jehechakuaa ha pyti'ajegua , Inglaterra ha heta ambue tetâme .
+1	Upéicha	gn
+2	avei	gn
+3	oñeme'ê	gn
+4	chupe	gn
+5	heta	gn
+6	ambue	gn
+7	jehechakuaa	gn
+8	ha	gn
+9	pyti'ajegua	gn
+10	,	other
+11	Inglaterra	ne-b-org
+12	ha	gn
+13	heta	gn
+14	ambue	gn
+15	tetâme	gn
+16	.	other
+
+#test15: Temimbo'e oikuaa mba'éichapa oiporuva'erã ipirapire
+1	Temimbo'e	gn
+2	oikuaa	gn
+3	mba'éichapa	gn
+4	oiporuva'erã	gn
+5	ipirapire	gn
+
+#test16: @USER q mufa son uds !! Tyeraku ! Para la albirro Q vuelva claro y el gordo sanchez ! Y en Cerro Personal ! Aplazados en servicios tb !!
+1	@USER	ne-b-org
+2	q	es-b-cc
+3	mufa	es-i-cc
+4	son	es-i-cc
+5	uds	es-i-cc
+6	!!	other
+7	Tyeraku	gn
+8	!	other
+9	Para	es-b-cc
+10	la	es-i-cc
+11	albirro	ne-b-org
+12	Q	es-b-cc
+13	vuelva	es-i-cc
+14	claro	ne-b-org
+15	y	es-b-cc
+16	el	es-i-cc
+17	gordo	es-i-cc
+18	sanchez	ne-b-per
+19	!	other
+20	Y	es-b-cc
+21	en	es-i-cc
+22	Cerro	ne-b-org
+23	Personal	ne-b-org
+24	!	other
+25	Aplazados	es-b-cc
+26	en	es-i-cc
+27	servicios	es-i-cc
+28	tb	es-i-cc
+29	!!	other
+
+#test17: @USER va funcionar pio la señal !!!!!!!
+1	@USER	ne-b-org
+2	va	es-b-cc
+3	funcionar	es-i-cc
+4	pio	gn
+5	la	es-b-cc
+6	señal	es-i-cc
+7	!!!!!!!	other
+
+#test18: Mbo'ehára Elva he'i ary 2009 jave intendente Saturnino Bogado ome'ê ichupe ha ikypy'ýpe orden de ocupación mokõi terreno , peteî hérape ha ambue ambuépe .
+1	Mbo'ehára	gn
+2	Elva	ne-b-per
+3	he'i	gn
+4	ary	gn
+5	2009	other
+6	jave	gn
+7	intendente	es-b-ul
+8	Saturnino	ne-b-per
+9	Bogado	ne-i-per
+10	ome'ê	gn
+11	ichupe	gn
+12	ha	gn
+13	ikypy'ýpe	gn
+14	orden	es-b-ul
+15	de	es-i-ul
+16	ocupación	es-i-ul
+17	mokõi	gn
+18	terreno	es-b-ul
+19	,	other
+20	peteî	gn
+21	hérape	gn
+22	ha	gn
+23	ambue	gn
+24	ambuépe	gn
+25	.	other
+
+#test19: @USER Ani nde pochy Ivan 🤣🤣🤣🤣 En serio va sin mala onda jajaja
+1	@USER	ne-b-per
+2	Ani	gn
+3	nde	gn
+4	pochy	gn
+5	Ivan	ne-b-per
+6	🤣🤣🤣🤣	other
+7	En	es-b-cc
+8	serio	es-i-cc
+9	va	es-i-cc
+10	sin	es-i-cc
+11	mala	es-i-cc
+12	onda	es-i-cc
+13	jajaja	es-i-cc
+
+#test20: Omoañete haihára , mbo'ehára ojevela salón Memorial avenida Mariscal López ha oñeñotýta táva Villarrica-pe .
+1	Omoañete	gn
+2	haihára	gn
+3	,	other
+4	mbo'ehára	gn
+5	ojevela	mix
+6	salón	es-b-ul
+7	Memorial	ne-b-loc
+8	avenida	ne-i-loc
+9	Mariscal	ne-i-loc
+10	López	ne-i-loc
+11	ha	gn
+12	oñeñotýta	gn
+13	táva	gn
+14	Villarrica-pe	ne-b-loc
+15	.	other
+
+#test21: @USER Nde yeuma pico , anda jugar free mbae
+1	@USER	ne-b-per
+2	Nde	gn
+3	yeuma	gn
+4	pico	gn
+5	,	other
+6	anda	es-b-cc
+7	jugar	es-i-cc
+8	free	foreign
+9	mbae	gn
+
+#test22: LEONARDO LEDESMA HE'I PETEÎ ÑE'ÊPOTY : URL vía @USER
+1	LEONARDO	ne-b-per
+2	LEDESMA	ne-i-per
+3	HE'I	gn
+4	PETEÎ	gn
+5	ÑE'ÊPOTY	gn
+6	:	other
+7	URL	other
+8	vía	es-b-cc
+9	@USER	ne-b-org
+
+#test23: Ha'éva Mitâmi Hesu
+1	Ha'éva	gn
+2	Mitâmi	gn
+3	Hesu	ne-b-per
+
+#test24: @USER que logro " cuenta verificada " para festejar regalen saldo mba'e
+1	@USER	ne-b-org
+2	que	es-b-cc
+3	logro	es-i-cc
+4	"	other
+5	cuenta	es-b-cc
+6	verificada	es-i-cc
+7	"	other
+8	para	es-b-cc
+9	festejar	es-i-cc
+10	regalen	es-i-cc
+11	saldo	es-i-cc
+12	mba'e	gn
+
+#test25: @USER Omarcha upea , che ko'e ave.i , quiero un puesto en Itaipú hendy ape tobatime , mbae eremi la puesto mi itaipupe
+1	@USER	ne-b-org
+2	Omarcha	mix
+3	upea	gn
+4	,	other
+5	che	gn
+6	ko'e	gn
+7	ave.i	gn
+8	,	other
+9	quiero	es-b-cc
+10	un	es-i-cc
+11	puesto	es-i-cc
+12	en	es-i-cc
+13	Itaipú	ne-b-org
+14	hendy	gn
+15	ape	gn
+16	tobatime	ne-b-loc
+17	,	other
+18	mbae	gn
+19	eremi	gn
+20	la	es-b-ul
+21	puesto	es-i-ul
+22	mi	gn
+23	itaipupe	ne-b-org
+
+#test26: Ñañe'êmiena la avañe'ême ( ? JAAALAAA
+1	Ñañe'êmiena	gn
+2	la	es-b-ul
+3	avañe'ême	gn
+4	(	other
+5	?	other
+6	JAAALAAA	es-b-ul
+
+#test27: 8 de marzo , Diputado omonéî uso obligatorio pulsera electrónica umi kuimba'e denunciado oinupãva ipareja o expareja , ohapejokóvo feminicidio .
+1	8	other
+2	de	es-b-ul
+3	marzo	es-i-ul
+4	,	other
+5	Diputado	es-b-ul
+6	omonéî	gn
+7	uso	es-b-ul
+8	obligatorio	es-i-ul
+9	pulsera	es-i-ul
+10	electrónica	es-i-ul
+11	umi	gn
+12	kuimba'e	gn
+13	denunciado	es-b-ul
+14	oinupãva	gn
+15	ipareja	mix
+16	o	es-b-ul
+17	expareja	es-i-ul
+18	,	other
+19	ohapejokóvo	gn
+20	feminicidio	es-b-ul
+21	.	other
+
+#test28: Ko estructura Central Hidroeléctrica Yasyretã- ombohape 24 jasypoapy jave 2019 – oiporúva 33,576 oñembotývo jasypateî jave ojekuaa reporte rupive EBY .
+1	Ko	gn
+2	estructura	es-b-ul
+3	Central	ne-b-org
+4	Hidroeléctrica	ne-i-org
+5	Yasyretã-	ne-i-org
+6	ombohape	gn
+7	24	other
+8	jasypoapy	gn
+9	jave	gn
+10	2019	other
+11	–	other
+12	oiporúva	gn
+13	33,576	other
+14	oñembotývo	gn
+15	jasypateî	gn
+16	jave	gn
+17	ojekuaa	gn
+18	reporte	es-b-cc
+19	rupive	gn
+20	EBY	ne-b-org
+21	.	other
+
+#test29: Péicha oime umi asistente funcionario capacitado , orekóva insumo de bioseguridad pertinente .
+1	Péicha	gn
+2	oime	gn
+3	umi	gn
+4	asistente	es-b-ul
+5	funcionario	es-i-ul
+6	capacitado	es-i-ul
+7	,	other
+8	orekóva	gn
+9	insumo	es-b-ul
+10	de	es-i-ul
+11	bioseguridad	es-i-ul
+12	pertinente	es-i-ul
+13	.	other
+
+#test30: CON EDILBERTO VARGAS EN PURAHÉI RORY POR RADIO CÁRITAS URL
+1	CON	es-b-cc
+2	EDILBERTO	ne-b-per
+3	VARGAS	ne-i-per
+4	EN	es-b-cc
+5	PURAHÉI	ne-b-org
+6	RORY	ne-i-org
+7	POR	es-b-cc
+8	RADIO	ne-b-org
+9	CÁRITAS	ne-i-org
+10	URL	other
+
+#test31: Peteî akâ osê he'i “ So'o ” ha ambuéva avei he'i “ So'o ” .
+1	Peteî	gn
+2	akâ	gn
+3	osê	gn
+4	he'i	gn
+5	“	other
+6	So'o	gn
+7	”	other
+8	ha	gn
+9	ambuéva	gn
+10	avei	gn
+11	he'i	gn
+12	“	other
+13	So'o	gn
+14	”	other
+15	.	other
+
+#test32: Imandu'a orekóva mercadería Aduana-pe , péva chequeo ha intervención oikóva , oha'ãrõva oguahëvo a destino .
+1	Imandu'a	gn
+2	orekóva	gn
+3	mercadería	es-b-ul
+4	Aduana-pe	ne-b-org
+5	,	other
+6	péva	gn
+7	chequeo	es-b-ul
+8	ha	gn
+9	intervención	es-b-ul
+10	oikóva	gn
+11	,	other
+12	oha'ãrõva	gn
+13	oguahëvo	gn
+14	a	es-b-cc
+15	destino	es-i-cc
+16	.	other
+
+#test33: Omyesakã día lunes oikóva omoañete ko'ã representante coalición oîva okaháre .
+1	Omyesakã	gn
+2	día	es-b-ul
+3	lunes	es-i-ul
+4	oikóva	gn
+5	omoañete	gn
+6	ko'ã	gn
+7	representante	es-b-ul
+8	coalición	es-i-ul
+9	oîva	gn
+10	okaháre	gn
+11	.	other
+
+#test34: Te preocupas en ganar plata nomás hei jajaajajja y de amor co no se vive nde itavya
+1	Te	es-b-cc
+2	preocupas	es-i-cc
+3	en	es-i-cc
+4	ganar	es-i-cc
+5	plata	es-i-cc
+6	nomás	es-i-cc
+7	hei	gn
+8	jajaajajja	es-b-cc
+9	y	es-i-cc
+10	de	es-i-cc
+11	amor	es-i-cc
+12	co	gn
+13	no	es-b-cc
+14	se	es-i-cc
+15	vive	es-i-cc
+16	nde	gn
+17	itavya	gn
+
+#test35: Municipalidad ombotove Contraloría he’íva imandúpe
+1	Municipalidad	ne-b-org
+2	ombotove	gn
+3	Contraloría	ne-b-org
+4	he’íva	gn
+5	imandúpe	gn
+
+#test36: Propuesta orekova deuda pyahu Itaipúpe , ko’ágã de manera informal , oipyhýva Gobierno Mario Abdo Benítez oiméva plan de acción ombohováivo consecuencia crisis económica oipyhýva pandemia .
+1	Propuesta	es-b-ul
+2	orekova	gn
+3	deuda	es-b-ul
+4	pyahu	gn
+5	Itaipúpe	ne-b-loc
+6	,	other
+7	ko’ágã	gn
+8	de	es-b-cc
+9	manera	es-i-cc
+10	informal	es-i-cc
+11	,	other
+12	oipyhýva	gn
+13	Gobierno	ne-b-org
+14	Mario	ne-b-per
+15	Abdo	ne-i-per
+16	Benítez	ne-i-per
+17	oiméva	gn
+18	plan	es-b-cc
+19	de	es-i-cc
+20	acción	es-i-cc
+21	ombohováivo	gn
+22	consecuencia	es-b-ul
+23	crisis	es-i-ul
+24	económica	es-i-ul
+25	oipyhýva	gn
+26	pandemia	es-b-ul
+27	.	other
+
+#test37: @USER haces bien una porqueria es el ñembo hd de @USER
+1	@USER	ne-b-per
+2	haces	es-b-cc
+3	bien	es-i-cc
+4	una	es-i-cc
+5	porqueria	es-i-cc
+6	es	es-i-cc
+7	el	es-i-cc
+8	ñembo	gn
+9	hd	es-b-cc
+10	de	es-i-cc
+11	@USER	ne-b-org
+
+#test38: Son unos inutiles de 1ra @USER hee ? ... En un sábado bastante kaigue me dejan sin Internet y Cable TV .
+1	Son	es-b-cc
+2	unos	es-i-cc
+3	inutiles	es-i-cc
+4	de	es-i-cc
+5	1ra	es-i-cc
+6	@USER	ne-b-org
+7	hee	gn
+8	?	other
+9	...	other
+10	En	es-b-cc
+11	un	es-i-cc
+12	sábado	es-i-cc
+13	bastante	es-i-cc
+14	kaigue	gn
+15	me	es-b-cc
+16	dejan	es-i-cc
+17	sin	es-i-cc
+18	Internet	es-i-cc
+19	y	es-i-cc
+20	Cable	es-i-cc
+21	TV	es-i-cc
+22	.	other
+
+#test39: Así que amigos , desde hoy por favor todos háblenme en guaraní pls . Háke , peñe'emi chéve guaraníme plz .
+1	Así	es-b-cc
+2	que	es-i-cc
+3	amigos	es-i-cc
+4	,	other
+5	desde	es-b-cc
+6	hoy	es-i-cc
+7	por	es-i-cc
+8	favor	es-i-cc
+9	todos	es-i-cc
+10	háblenme	es-i-cc
+11	en	es-i-cc
+12	guaraní	es-i-cc
+13	pls	other
+14	.	other
+15	Háke	gn
+16	,	other
+17	peñe'emi	gn
+18	chéve	gn
+19	guaraníme	gn
+20	plz	other
+21	.	other
+
+#test40: Nderakore , aparte de ser el cuerno nde pesada jey
+1	Nderakore	gn
+2	,	other
+3	aparte	es-b-cc
+4	de	es-i-cc
+5	ser	es-i-cc
+6	el	es-i-cc
+7	cuerno	es-i-cc
+8	nde	gn
+9	pesada	es-b-cc
+10	jey	gn
+
+#test41: @USER : Usuarios de Tigo , no es gua'u cierto esto . Cc : @USER URL @USER
+1	@USER	ne-b-per
+2	:	other
+3	Usuarios	es-b-cc
+4	de	es-i-cc
+5	Tigo	ne-b-org
+6	,	other
+7	no	es-b-cc
+8	es	es-i-cc
+9	gua'u	gn
+10	cierto	es-b-cc
+11	esto	es-i-cc
+12	.	other
+13	Cc	other
+14	:	other
+15	@USER	ne-b-per
+16	URL	other
+17	@USER	ne-b-org
+
+#test42: @USER ustedes me van a matar cheraa
+1	@USER	ne-b-org
+2	ustedes	es-b-cc
+3	me	es-i-cc
+4	van	es-i-cc
+5	a	es-i-cc
+6	matar	es-i-cc
+7	cheraa	gn
+
+#test43: Oî luto-pe hikuái Asociación de Músicos del Paraguay .
+1	Oî	gn
+2	luto-pe	mix
+3	hikuái	gn
+4	Asociación	ne-b-org
+5	de	ne-i-org
+6	Músicos	ne-i-org
+7	del	ne-i-org
+8	Paraguay	ne-i-org
+9	.	other
+
+#test44: Umi organización Juventud en Contramano omotenonde hikuái sentata calle Oliva ári , oikéva protesta disposición Poder Ejecutivo orekóva ko arangépe .
+1	Umi	gn
+2	organización	es-b-ul
+3	Juventud	ne-b-org
+4	en	ne-i-org
+5	Contramano	ne-i-org
+6	omotenonde	gn
+7	hikuái	gn
+8	sentata	es-b-ul
+9	calle	es-i-ul
+10	Oliva	ne-b-per
+11	ári	gn
+12	,	other
+13	oikéva	gn
+14	protesta	es-b-ul
+15	disposición	es-i-ul
+16	Poder	ne-b-org
+17	Ejecutivo	ne-i-org
+18	orekóva	gn
+19	ko	gn
+20	arangépe	gn
+21	.	other
+
+#test45: @USER Marco prieto no es nuestro jugador nde ? Jaja qué hacía la propaganda de Yak
+1	@USER	ne-b-per
+2	Marco	ne-b-per
+3	prieto	ne-i-per
+4	no	es-b-cc
+5	es	es-i-cc
+6	nuestro	es-i-cc
+7	jugador	es-i-cc
+8	nde	gn
+9	?	other
+10	Jaja	es-b-cc
+11	qué	es-i-cc
+12	hacía	es-i-cc
+13	la	es-i-cc
+14	propaganda	es-i-cc
+15	de	es-i-cc
+16	Yak	ne-b-per
+
+#test46: Ambue hovápe oguereko mokôi korasô Hesu ha María mba'e , tai M , ojuasáva peteî kurusúre ha 12 mbyjáre ñanemomandu'áva umi 12 Hesu Remimondóre .
+1	Ambue	gn
+2	hovápe	gn
+3	oguereko	gn
+4	mokôi	gn
+5	korasô	gn
+6	Hesu	ne-b-per
+7	ha	gn
+8	María	ne-b-per
+9	mba'e	gn
+10	,	other
+11	tai	gn
+12	M	gn
+13	,	other
+14	ojuasáva	gn
+15	peteî	gn
+16	kurusúre	gn
+17	ha	gn
+18	12	other
+19	mbyjáre	gn
+20	ñanemomandu'áva	gn
+21	umi	gn
+22	12	other
+23	Hesu	ne-b-per
+24	Remimondóre	gn
+25	.	other
+
+#test47: @USER tigo mundaha
+1	@USER	ne-b-org
+2	tigo	ne-b-org
+3	mundaha	other
+
+#test48: “ Embajada del Paraguay oiméva Israel-pe ko pyhareve omoañete Cancillería Nacional ko'ágã Ministerio de Relaciones Exteriores Israelí ary oikévape oiketáha Paraguái upe convocatoria de becas umi profesionales , ha'eháicha ambue ary oikohaguéicha ” , he'i comunicado osêva ko cartera estatal-gui , orekphápe decisión oipyhýva umi autoridades israelíes .
+1	“	other
+2	Embajada	ne-b-org
+3	del	ne-i-org
+4	Paraguay	ne-i-org
+5	oiméva	gn
+6	Israel-pe	ne-b-loc
+7	ko	gn
+8	pyhareve	gn
+9	omoañete	gn
+10	Cancillería	ne-b-org
+11	Nacional	ne-i-org
+12	ko'ágã	gn
+13	Ministerio	ne-b-org
+14	de	ne-i-org
+15	Relaciones	ne-i-org
+16	Exteriores	ne-i-org
+17	Israelí	ne-i-org
+18	ary	gn
+19	oikévape	gn
+20	oiketáha	gn
+21	Paraguái	ne-b-loc
+22	upe	gn
+23	convocatoria	es-b-cc
+24	de	es-i-cc
+25	becas	es-i-cc
+26	umi	gn
+27	profesionales	es-b-cc
+28	,	other
+29	ha'eháicha	gn
+30	ambue	gn
+31	ary	gn
+32	oikohaguéicha	gn
+33	”	other
+34	,	other
+35	he'i	gn
+36	comunicado	es-b-cc
+37	osêva	gn
+38	ko	gn
+39	cartera	es-b-cc
+40	estatal-gui	mix
+41	,	other
+42	orekphápe	gn
+43	decisión	es-b-cc
+44	oipyhýva	gn
+45	umi	gn
+46	autoridades	es-b-cc
+47	israelíes	es-i-cc
+48	.	other
+
+#test49: Ajerúre ichupe peteî copia umi antecedente comunicaciones espontánea orekóva Ministerio Público tetã Paraguái ykére oîvagui , noñeme’êi chéve upe copia , ha che jurujái apytávo , ka’aru aikuaávo oñeallana che róga , oheka hikuái peteî supuesto bolígrafo ” , omoañete Volpe ABC Cardinal-pe upe procedimiento oñemotenondéva hógape .
+1	Ajerúre	gn
+2	ichupe	gn
+3	peteî	gn
+4	copia	es-b-cc
+5	umi	gn
+6	antecedente	es-b-ul
+7	comunicaciones	es-i-ul
+8	espontánea	es-i-ul
+9	orekóva	gn
+10	Ministerio	ne-b-org
+11	Público	ne-i-org
+12	tetã	ne-i-org
+13	Paraguái	ne-i-org
+14	ykére	gn
+15	oîvagui	gn
+16	,	other
+17	noñeme’êi	gn
+18	chéve	gn
+19	upe	gn
+20	copia	es-b-ul
+21	,	other
+22	ha	gn
+23	che	gn
+24	jurujái	gn
+25	apytávo	gn
+26	,	other
+27	ka’aru	gn
+28	aikuaávo	gn
+29	oñeallana	gn
+30	che	gn
+31	róga	gn
+32	,	other
+33	oheka	gn
+34	hikuái	gn
+35	peteî	gn
+36	supuesto	es-b-cc
+37	bolígrafo	es-i-cc
+38	”	other
+39	,	other
+40	omoañete	gn
+41	Volpe	ne-b-per
+42	ABC	ne-b-org
+43	Cardinal-pe	ne-i-org
+44	upe	gn
+45	procedimiento	es-b-cc
+46	oñemotenondéva	gn
+47	hógape	gn
+48	.	other
+
+#test50: Mis amigos : Eguata porãke ani nde sy nde pilla eka'uha Yo : URL
+1	Mis	es-b-cc
+2	amigos	es-i-cc
+3	:	other
+4	Eguata	gn
+5	porãke	gn
+6	ani	gn
+7	nde	gn
+8	sy	gn
+9	nde	gn
+10	pilla	mix
+11	eka'uha	gn
+12	Yo	es-b-cc
+13	:	other
+14	URL	other
+
+#test51: Omoherakuã novedad candidatura Ulises Quintana
+1	Omoherakuã	gn
+2	novedad	es-b-ul
+3	candidatura	es-i-ul
+4	Ulises	ne-b-per
+5	Quintana	ne-i-per
+
+#test52: Sanmiguelino apesâ chemoirû kopyhareve , ko'emboyve . Peipirû jahapa hagua Festival Ovecharaguepe ..
+1	Sanmiguelino	es-b-cc
+2	apesâ	gn
+3	chemoirû	gn
+4	kopyhareve	gn
+5	,	other
+6	ko'emboyve	gn
+7	.	other
+8	Peipirû	gn
+9	jahapa	gn
+10	hagua	gn
+11	Festival	ne-b-org
+12	Ovecharaguepe	ne-i-org
+13	..	other
+
+#test53: Oime umi mba'e oikotevêva Gobierno orekóva memoria colectiva oitýva tukumbo ombotovévo tesaráipe .
+1	Oime	gn
+2	umi	gn
+3	mba'e	gn
+4	oikotevêva	gn
+5	Gobierno	es-b-cc
+6	orekóva	gn
+7	memoria	es-b-cc
+8	colectiva	es-i-cc
+9	oitýva	gn
+10	tukumbo	gn
+11	ombotovévo	gn
+12	tesaráipe	gn
+13	.	other
+
+#test54: PÑS OMOMBA’EGUASU EMPRESA PROYACK OGUENOHẼRE AO IMARANDU GUARANÍVA URL
+1	PÑS	other
+2	OMOMBA’EGUASU	gn
+3	EMPRESA	es-b-cc
+4	PROYACK	ne-b-org
+5	OGUENOHẼRE	gn
+6	AO	gn
+7	IMARANDU	gn
+8	GUARANÍVA	gn
+9	URL	other
+
+#test55: Oguerovia hikuái ko situación oñenormalisa ára ouvape .
+1	Oguerovia	gn
+2	hikuái	gn
+3	ko	gn
+4	situación	es-b-cc
+5	oñenormalisa	mix
+6	ára	gn
+7	ouvape	gn
+8	.	other
+
+#test56: @USER No puede ser que nunca escucharon la expresión : " nde mba'e rakamby abierto , kavaju calesita calesita " .
+1	@USER	ne-b-per
+2	No	es-b-ul
+3	puede	es-i-ul
+4	ser	es-i-ul
+5	que	es-i-ul
+6	nunca	es-i-ul
+7	escucharon	es-i-ul
+8	la	es-i-ul
+9	expresión	es-i-ul
+10	:	other
+11	"	other
+12	nde	gn
+13	mba'e	gn
+14	rakamby	gn
+15	abierto	es-b-cc
+16	,	other
+17	kavaju	gn
+18	calesita	es-b-cc
+19	calesita	es-i-cc
+20	"	other
+21	.	other
+
+#test57: Ko'ã parlamentario omboguatáva tendotakuérape , Poder Ejecutivo oñemoîva'erã acuerdo constitucional-pe .
+1	Ko'ã	gn
+2	parlamentario	es-b-cc
+3	omboguatáva	gn
+4	tendotakuérape	gn
+5	,	other
+6	Poder	ne-b-org
+7	Ejecutivo	ne-i-org
+8	oñemoîva'erã	gn
+9	acuerdo	es-b-cc
+10	constitucional-pe	es-i-cc
+11	.	other
+
+#test58: @USER Atopa kuña eñe'ea la guaranime hahaha ha'e guaranime añe´e porave ispañolguii
+1	@USER	ne-b-per
+2	Atopa	gn
+3	kuña	gn
+4	eñe'ea	gn
+5	la	gn
+6	guaranime	gn
+7	hahaha	gn
+8	ha'e	gn
+9	guaranime	gn
+10	añe´e	gn
+11	porave	gn
+12	ispañolguii	gn
+
+#test59: Oñemoñepyrũ guarani mbo’esyry Hospital Nacional de Itauguá mba’apoharakuéra ndive URL @USER
+1	Oñemoñepyrũ	gn
+2	guarani	gn
+3	mbo’esyry	gn
+4	Hospital	ne-b-loc
+5	Nacional	ne-i-loc
+6	de	ne-i-loc
+7	Itauguá	ne-i-loc
+8	mba’apoharakuéra	gn
+9	ndive	gn
+10	URL	other
+11	@USER	ne-b-org
+
+#test60: Ko grupo , irundyha rupive , oñembyatýva mbohapy jey arapokõindýpe ha oipytyvõva empresa Nutriforma , ojapóva actividad física ha tembiapo social .
+1	Ko	gn
+2	grupo	es-b-cc
+3	,	other
+4	irundyha	gn
+5	rupive	gn
+6	,	other
+7	oñembyatýva	gn
+8	mbohapy	gn
+9	jey	gn
+10	arapokõindýpe	gn
+11	ha	gn
+12	oipytyvõva	gn
+13	empresa	es-b-cc
+14	Nutriforma	ne-b-org
+15	,	other
+16	ojapóva	gn
+17	actividad	es-b-cc
+18	física	es-i-cc
+19	ha	gn
+20	tembiapo	gn
+21	social	es-b-cc
+22	.	other
+
+#test61: @USER Seeee amigo oikoite ñande amiga , nde ahata Villa Halles pe hina heta la amiwis x ahi
+1	@USER	ne-b-per
+2	Seeee	es-b-cc
+3	amigo	es-i-cc
+4	oikoite	gn
+5	ñande	gn
+6	amiga	es-b-cc
+7	,	other
+8	nde	gn
+9	ahata	gn
+10	Villa	ne-b-loc
+11	Halles	ne-i-loc
+12	pe	gn
+13	hina	gn
+14	heta	gn
+15	la	es-b-ul
+16	amiwis	mix
+17	x	other
+18	ahi	es-b-cc
+
+#test62: @USER cada UN METRO tengo y no tengo señal .. Se pueden pio tranquilizar ya !! Se tomaron pio conmigo o que ??!!!!
+1	@USER	ne-b-org
+2	cada	es-b-ul
+3	UN	es-i-ul
+4	METRO	es-i-ul
+5	tengo	es-b-cc
+6	y	es-i-cc
+7	no	es-i-cc
+8	tengo	es-i-cc
+9	señal	es-i-cc
+10	..	other
+11	Se	es-b-cc
+12	pueden	es-i-cc
+13	pio	gn
+14	tranquilizar	es-b-cc
+15	ya	es-i-cc
+16	!!	other
+17	Se	es-b-cc
+18	tomaron	es-i-cc
+19	pio	gn
+20	conmigo	es-b-ul
+21	o	es-i-ul
+22	que	es-i-ul
+23	??!!!!	other
+
+#test63: Oikévo altercado , legisladora ohasa severo cuestionamiento iñirûnguéra rehe ha omoañete institución ha'éva peteî cueva de forajido , tenda oikehápe delincuente , ha omohenda iñirûnguéra tavaygua estafador ha upépe oñeikytî señal TV Cámara , ko'ã transmisión sesión parlamentaria jave .
+1	Oikévo	gn
+2	altercado	es-b-cc
+3	,	other
+4	legisladora	es-b-cc
+5	ohasa	gn
+6	severo	es-b-cc
+7	cuestionamiento	es-i-cc
+8	iñirûnguéra	gn
+9	rehe	gn
+10	ha	gn
+11	omoañete	gn
+12	institución	es-b-cc
+13	ha'éva	gn
+14	peteî	gn
+15	cueva	es-b-ul
+16	de	es-i-ul
+17	forajido	es-i-ul
+18	,	other
+19	tenda	gn
+20	oikehápe	gn
+21	delincuente	es-b-ul
+22	,	other
+23	ha	gn
+24	omohenda	gn
+25	iñirûnguéra	gn
+26	tavaygua	gn
+27	estafador	es-b-ul
+28	ha	gn
+29	upépe	gn
+30	oñeikytî	gn
+31	señal	es-b-cc
+32	TV	ne-b-org
+33	Cámara	ne-i-org
+34	,	other
+35	ko'ã	gn
+36	transmisión	es-b-ul
+37	sesión	es-i-ul
+38	parlamentaria	es-i-ul
+39	jave	gn
+40	.	other
+
+#test64: Así 🤡🤡 quede después de que le dije a mi papá que era un amigo no más y se me salió un " chengo la anovia ndahaei nde " jajajajajajaja 😂😂😂
+1	Así	es-b-cc
+2	🤡🤡	other
+3	quede	es-b-cc
+4	después	es-i-cc
+5	de	es-i-cc
+6	que	es-i-cc
+7	le	es-i-cc
+8	dije	es-i-cc
+9	a	es-i-cc
+10	mi	es-i-cc
+11	papá	es-i-cc
+12	que	es-i-cc
+13	era	es-i-cc
+14	un	es-i-cc
+15	amigo	es-i-cc
+16	no	es-b-ul
+17	más	es-i-ul
+18	y	es-i-ul
+19	se	es-i-ul
+20	me	es-i-ul
+21	salió	es-i-ul
+22	un	es-i-ul
+23	"	other
+24	chengo	gn
+25	la	es-b-ul
+26	anovia	mix
+27	ndahaei	gn
+28	nde	gn
+29	"	other
+30	jajajajajajaja	es-b-cc
+31	😂😂😂	other
+
+#test65: He’i Tupão noîrî lucha de clases ykére , pero sí ombotove mezquindad ha indolencia rico orekóva .
+1	He’i	gn
+2	Tupão	ne-b-org
+3	noîrî	gn
+4	lucha	es-b-cc
+5	de	es-i-cc
+6	clases	es-i-cc
+7	ykére	gn
+8	,	other
+9	pero	es-b-cc
+10	sí	es-i-cc
+11	ombotove	gn
+12	mezquindad	es-b-cc
+13	ha	es-i-cc
+14	indolencia	es-b-ul
+15	rico	es-i-ul
+16	orekóva	gn
+17	.	other
+
+#test66: Twis en Inglés , árabe , francés , Etc . Etc . Che atwiteata Guaranime mba'e .
+1	Twis	mix
+2	en	es-b-cc
+3	Inglés	es-i-cc
+4	,	other
+5	árabe	es-b-cc
+6	,	other
+7	francés	es-b-cc
+8	,	other
+9	Etc	es-b-cc
+10	.	other
+11	Etc	es-b-cc
+12	.	other
+13	Che	gn
+14	atwiteata	mix
+15	Guaranime	gn
+16	mba'e	gn
+17	.	other
+
+#test67: Ajuhu peteî número de teléfono , ha ahenói .
+1	Ajuhu	gn
+2	peteî	gn
+3	número	es-b-cc
+4	de	es-i-cc
+5	teléfono	es-i-cc
+6	,	other
+7	ha	gn
+8	ahenói	gn
+9	.	other
+
+#test68: Ha'éniko upe ohecha'ypýraka'e umi tuguy aty ABO ha upévare oñeme'êkuri chupe Jopói Nobel ary 1930-pe .
+1	Ha'éniko	gn
+2	upe	gn
+3	ohecha'ypýraka'e	gn
+4	umi	gn
+5	tuguy	gn
+6	aty	gn
+7	ABO	other
+8	ha	gn
+9	upévare	gn
+10	oñeme'êkuri	gn
+11	chupe	gn
+12	Jopói	ne-b-org
+13	Nobel	ne-i-org
+14	ary	gn
+15	1930-pe	mix
+16	.	other
+
+#test69: Museo Casa de la Independencia oñeinauguró pyhareve peteî espacio infantil ko'ã mitãnguéra oikuaa haguã umi objeto valioso , siglo XIX guare .
+1	Museo	ne-b-loc
+2	Casa	ne-i-loc
+3	de	ne-i-loc
+4	la	ne-i-loc
+5	Independencia	ne-i-loc
+6	oñeinauguró	mix
+7	pyhareve	gn
+8	peteî	gn
+9	espacio	es-b-cc
+10	infantil	es-i-cc
+11	ko'ã	gn
+12	mitãnguéra	gn
+13	oikuaa	gn
+14	haguã	gn
+15	umi	gn
+16	objeto	es-b-ul
+17	valioso	es-i-ul
+18	,	other
+19	siglo	es-b-cc
+20	XIX	other
+21	guare	gn
+22	.	other
+
+#test70: Tetã iñapañuãi pypuku apañuãi política , umi tavaygua Jesús-gua imandu’a fundación aniversario
+1	Tetã	gn
+2	iñapañuãi	gn
+3	pypuku	gn
+4	apañuãi	gn
+5	política	es-b-cc
+6	,	other
+7	umi	gn
+8	tavaygua	gn
+9	Jesús-gua	ne-b-loc
+10	imandu’a	gn
+11	fundación	es-b-ul
+12	aniversario	es-i-ul
+
+#test71: María Auxiliadora , 120 años tetãme
+1	María	ne-b-per
+2	Auxiliadora	ne-i-per
+3	,	other
+4	120	other
+5	años	es
+6	tetãme	gn
+
+#test72: Arriéro sin esperanza ĝuaiĝui rumby
+1	Arriéro	gn
+2	sin	es
+3	esperanza	es
+4	ĝuaiĝui	gn
+5	rumby	gn
+
+#test73: A esas personas que no hablan guaraní porque dicen que es " pelada " , añe'epaiteta guaranime ha ambopy'atarovata chugui .
+1	A	es
+2	esas	es
+3	personas	es
+4	que	es
+5	no	es
+6	hablan	es
+7	guaraní	es
+8	porque	es
+9	dicen	es
+10	que	es
+11	es	es
+12	"	other
+13	pelada	es
+14	"	other
+15	,	other
+16	añe'epaiteta	gn
+17	guaranime	gn
+18	ha	gn
+19	ambopy'atarovata	gn
+20	chugui	gn
+21	.	other
+
+#test74: Poder Judicial ha Ministerio Público ha’e peteï calamidad ha ndaha’éiva político causa añónte .
+1	Poder	ne-b-org
+2	Judicial	ne-i-org
+3	ha	gn
+4	Ministerio	ne-b-org
+5	Público	ne-i-org
+6	ha’e	gn
+7	peteï	gn
+8	calamidad	es
+9	ha	gn
+10	ndaha’éiva	gn
+11	político	es
+12	causa	es
+13	añónte	gn
+14	.	other
+
+#test75: ABC remiandu : OEA ha Unasur ojuavy tuicha URL Vía @USER
+1	ABC	ne-b-org
+2	remiandu	gn
+3	:	other
+4	OEA	ne-b-org
+5	ha	gn
+6	Unasur	ne-b-org
+7	ojuavy	gn
+8	tuicha	gn
+9	URL	other
+10	Vía	es
+11	@USER	ne-b-org
+
+#test76: Consigna orekóva endeudamiento Itaipúpe , topa oportunidad 2023-pe , ome’êva movilizaciones ciudadana Paraguaýpe ha Hernandarias .
+1	Consigna	es
+2	orekóva	gn
+3	endeudamiento	es
+4	Itaipúpe	ne-b-loc
+5	,	other
+6	topa	gn
+7	oportunidad	es
+8	2023-pe	other
+9	,	other
+10	ome’êva	gn
+11	movilizaciones	es
+12	ciudadana	es
+13	Paraguaýpe	ne-b-loc
+14	ha	gn
+15	Hernandarias	ne-b-loc
+16	.	other
+
+#test77: Conferencia de prensa ko jueves guive , ministro de Salud , Julio Mazzoleni , omoañete fase mbohapýha “ cuarentena inteligente ” , omoañetéva relajación oimévo etapa orekóva medida restrictiva circulación ha actividad laboral , deportiva ha entretenimiento , ko’ãva , Gobierno ojoko heta mba’e ohapejokóvo pandemia COVID-19 Paraguáipe .
+1	Conferencia	es
+2	de	es
+3	prensa	es
+4	ko	gn
+5	jueves	es
+6	guive	gn
+7	,	other
+8	ministro	es
+9	de	es
+10	Salud	es
+11	,	other
+12	Julio	ne-b-per
+13	Mazzoleni	ne-i-per
+14	,	other
+15	omoañete	gn
+16	fase	es
+17	mbohapýha	gn
+18	“	other
+19	cuarentena	es
+20	inteligente	es
+21	”	other
+22	,	other
+23	omoañetéva	gn
+24	relajación	es
+25	oimévo	gn
+26	etapa	es
+27	orekóva	gn
+28	medida	es
+29	restrictiva	es
+30	circulación	es
+31	ha	gn
+32	actividad	es
+33	laboral	es
+34	,	other
+35	deportiva	es
+36	ha	gn
+37	entretenimiento	es
+38	,	other
+39	ko’ãva	gn
+40	,	other
+41	Gobierno	es
+42	ojoko	gn
+43	heta	gn
+44	mba’e	gn
+45	ohapejokóvo	gn
+46	pandemia	es
+47	COVID-19	foreign
+48	Paraguáipe	ne-b-loc
+49	.	other
+
+#test78: Nde no podre beber por 10 dias hei ..
+1	Nde	gn
+2	no	es
+3	podre	es
+4	beber	es
+5	por	es
+6	10	other
+7	dias	es
+8	hei	gn
+9	..	other
+
+#test79: Dirección de Meteorología ombopyahu tormenta , omokyre’ÿvo poapy departamento centro , este , noreste región Oriental ha Chaco paraguayo .
+1	Dirección	es
+2	de	es
+3	Meteorología	es
+4	ombopyahu	gn
+5	tormenta	es
+6	,	other
+7	omokyre’ÿvo	gn
+8	poapy	gn
+9	departamento	es
+10	centro	es
+11	,	other
+12	este	es
+13	,	other
+14	noreste	es
+15	región	ne-b-loc
+16	Oriental	ne-i-loc
+17	ha	gn
+18	Chaco	ne-b-loc
+19	paraguayo	ne-i-loc
+20	.	other
+
+#test80: José Gaspar Rodríguez de Francia ” , odestecha yvytu hatã oipejúva , ha ambue táva jerére oï okukúiva óga'imi .
+1	José	ne-b-per
+2	Gaspar	ne-i-per
+3	Rodríguez	ne-i-per
+4	de	ne-i-per
+5	Francia	ne-i-per
+6	”	other
+7	,	other
+8	odestecha	gn
+9	yvytu	gn
+10	hatã	gn
+11	oipejúva	gn
+12	,	other
+13	ha	gn
+14	ambue	gn
+15	táva	gn
+16	jerére	gn
+17	oï	gn
+18	okukúiva	gn
+19	óga'imi	gn
+20	.	other
+
+#test81: Omyesakã orekóha intención oipytyvõva jeporavo peteî senador Añetete orekóva titular Congreso-gua , upéicha disidencia ojapova'erã lo propio , ome'êvo pytyvõ diputado cartista-pe .
+1	Omyesakã	gn
+2	orekóha	gn
+3	intención	es
+4	oipytyvõva	gn
+5	jeporavo	gn
+6	peteî	gn
+7	senador	es
+8	Añetete	ne-b-org
+9	orekóva	gn
+10	titular	es
+11	Congreso-gua	mix
+12	,	other
+13	upéicha	gn
+14	disidencia	es
+15	ojapova'erã	gn
+16	lo	es
+17	propio	es
+18	,	other
+19	ome'êvo	gn
+20	pytyvõ	gn
+21	diputado	es
+22	cartista-pe	mix
+23	.	other
+
+#test82: " Umi ñomongeta ha joaju iktu ome'ê resultado iporãva ha ojehu heta mba'e omoabuéva .
+1	"	other
+2	Umi	gn
+3	ñomongeta	gn
+4	ha	gn
+5	joaju	gn
+6	iktu	gn
+7	ome'ê	gn
+8	resultado	es
+9	iporãva	gn
+10	ha	gn
+11	ojehu	gn
+12	heta	gn
+13	mba'e	gn
+14	omoabuéva	gn
+15	.	other
+
+#test83: Ára 14 jasypoteî ñavô arygua ojegueromandu'a TUGUY ME'ÊHÁRA ÁRA , omoheñoiva'ekue Tesâi Yvoragua Atypavê – OMS ary 2004-pe .
+1	Ára	gn
+2	14	other
+3	jasypoteî	gn
+4	ñavô	gn
+5	arygua	gn
+6	ojegueromandu'a	gn
+7	TUGUY	gn
+8	ME'ÊHÁRA	gn
+9	ÁRA	gn
+10	,	other
+11	omoheñoiva'ekue	gn
+12	Tesâi	ne-b-org
+13	Yvoragua	ne-i-org
+14	Atypavê	ne-i-org
+15	–	other
+16	OMS	ne-b-org
+17	ary	gn
+18	2004-pe	other
+19	.	other
+
+#test84: Ha guaranime teikoteero . Pero heta mba’e jajapota oñondivepa
+1	Ha	gn
+2	guaranime	gn
+3	teikoteero	gn
+4	.	other
+5	Pero	es
+6	heta	gn
+7	mba’e	gn
+8	jajapota	gn
+9	oñondivepa	gn
+
+#test85: @USER Nda kiririmoai ndeve nde rygue tambor
+1	@USER	ne-b-per
+2	Nda	gn
+3	kiririmoai	gn
+4	ndeve	gn
+5	nde	gn
+6	rygue	gn
+7	tambor	es
+
+#test86: Añe'ero ndeve guaranime che raihuveta ? @USER :( No entendes guarani ? No ? Bueno :(
+1	Añe'ero	gn
+2	ndeve	gn
+3	guaranime	gn
+4	che	gn
+5	raihuveta	gn
+6	?	other
+7	@USER	ne-b-per
+8	:(	other
+9	No	es
+10	entendes	es
+11	guarani	es
+12	?	other
+13	No	es
+14	?	other
+15	Bueno	es
+16	:(	other
+
+#test87: @USER añe'eta ndeve guaranime osegui nio cheve petei CHOLO ivaiva rehegua !!! umia KOREKOGUA !!! jajajaja amanose feibu entero che agregapama
+1	@USER	ne-b-per
+2	añe'eta	gn
+3	ndeve	gn
+4	guaranime	gn
+5	osegui	mix
+6	nio	gn
+7	cheve	gn
+8	petei	gn
+9	CHOLO	es
+10	ivaiva	gn
+11	rehegua	gn
+12	!!!	other
+13	umia	gn
+14	KOREKOGUA	gn
+15	!!!	other
+16	jajajaja	other
+17	amanose	gn
+18	feibu	foreign
+19	entero	es
+20	che	gn
+21	agregapama	mix
+
+#test88: Upéi , Tupâsy Maria akâ jerere ojehecha peteî mba'erendy he'ihápe “ Ha , Maria nde reko angaipa'ŷva , oñembo'emína orerehe rojeroviáva nderehe ” .
+1	Upéi	gn
+2	,	other
+3	Tupâsy	gn
+4	Maria	ne-b-per
+5	akâ	gn
+6	jerere	gn
+7	ojehecha	gn
+8	peteî	gn
+9	mba'erendy	gn
+10	he'ihápe	gn
+11	“	other
+12	Ha	gn
+13	,	other
+14	Maria	ne-b-per
+15	nde	gn
+16	reko	gn
+17	angaipa'ŷva	gn
+18	,	other
+19	oñembo'emína	gn
+20	orerehe	gn
+21	rojeroviáva	gn
+22	nderehe	gn
+23	”	other
+24	.	other
+
+#test89: 29 de setiembre " Batalla de Boquerón " . ¡ Ñamomba'eguasu ñande rapykuere !
+1	29	other
+2	de	es
+3	setiembre	es
+4	"	other
+5	Batalla	es
+6	de	es
+7	Boquerón	ne-b-loc
+8	"	other
+9	.	other
+10	¡	other
+11	Ñamomba'eguasu	gn
+12	ñande	gn
+13	rapykuere	gn
+14	!	other
+
+#test90: Ombotove propaganda electoral extemporánea
+1	Ombotove	gn
+2	propaganda	es
+3	electoral	es
+4	extemporánea	es
+
+#test91: Momarandu avei ombohasaha oñepyrûva umi procedimiento penal Sandra McLeod de Zacarías , senador rembireko , avei oime imputada ko hecho punible rehe .
+1	Momarandu	gn
+2	avei	gn
+3	ombohasaha	gn
+4	oñepyrûva	gn
+5	umi	gn
+6	procedimiento	es
+7	penal	es
+8	Sandra	ne-b-per
+9	McLeod	ne-i-per
+10	de	ne-i-per
+11	Zacarías	ne-i-per
+12	,	other
+13	senador	es
+14	rembireko	gn
+15	,	other
+16	avei	gn
+17	oime	gn
+18	imputada	es
+19	ko	gn
+20	hecho	es
+21	punible	es
+22	rehe	gn
+23	.	other
+
+#test92: @USER Muy buen día Melly mbaeichapa nde koē kuña guapa
+1	@USER	ne-b-per
+2	Muy	es
+3	buen	es
+4	día	es
+5	Melly	ne-b-per
+6	mbaeichapa	gn
+7	nde	gn
+8	koē	gn
+9	kuña	gn
+10	guapa	mix
+
+#test93: Ha umi lista oñembohasáva ndaha'éiha .
+1	Ha	gn
+2	umi	gn
+3	lista	es
+4	oñembohasáva	gn
+5	ndaha'éiha	gn
+6	.	other
+
+#test94: @USER Yo lo que quiero saber , mbae mbaepio la orekova pe Boselli , ni kururu ningo ndo shutai 🤔🤔
+1	@USER	ne-b-per
+2	Yo	es
+3	lo	es
+4	que	es
+5	quiero	es
+6	saber	es
+7	,	other
+8	mbae	gn
+9	mbaepio	gn
+10	la	gn
+11	orekova	gn
+12	pe	gn
+13	Boselli	ne-b-per
+14	,	other
+15	ni	es
+16	kururu	gn
+17	ningo	gn
+18	ndo	gn
+19	shutai	foreign
+20	🤔🤔	other
+
+#test95: EL PAPA FRANCISCO EN PARAGUAY : 10 , 11 Y 12 DE JULIO Oîma ñane retâme , oîma ñande apytépe . Ha'e ohayhu ñane ñe'ê
+1	EL	es
+2	PAPA	ne-b-per
+3	FRANCISCO	ne-i-per
+4	EN	es
+5	PARAGUAY	ne-b-loc
+6	:	other
+7	10	other
+8	,	other
+9	11	other
+10	Y	es
+11	12	other
+12	DE	es
+13	JULIO	es
+14	Oîma	gn
+15	ñane	gn
+16	retâme	gn
+17	,	other
+18	oîma	gn
+19	ñande	gn
+20	apytépe	gn
+21	.	other
+22	Ha'e	gn
+23	ohayhu	gn
+24	ñane	gn
+25	ñe'ê	gn
+
+#test96: Ha upei los Licenciado kuera , pemoi mimi pio ?
+1	Ha	gn
+2	upei	gn
+3	los	es
+4	Licenciado	es
+5	kuera	mix
+6	,	other
+7	pemoi	gn
+8	mimi	gn
+9	pio	gn
+10	?	other
+
+#test97: Pya'ete romba'apóta umi centro de rehabilitación mitãrusu ha mitãkuñanguéra oñereinserta ñande sociedad-pe .
+1	Pya'ete	gn
+2	romba'apóta	gn
+3	umi	gn
+4	centro	es
+5	de	es
+6	rehabilitación	es
+7	mitãrusu	gn
+8	ha	gn
+9	mitãkuñanguéra	gn
+10	oñereinserta	mix
+11	ñande	gn
+12	sociedad-pe	es
+13	.	other
+
+#test98: Pomberoicha ivai ha iñaña jey . Orekopaite voi . Si nde vai al menos tenés que ser buena persona y no querer cagarle a otras personas .
+1	Pomberoicha	gn
+2	ivai	gn
+3	ha	gn
+4	iñaña	gn
+5	jey	gn
+6	.	other
+7	Orekopaite	gn
+8	voi	gn
+9	.	other
+10	Si	es
+11	nde	gn
+12	vai	gn
+13	al	es
+14	menos	es
+15	tenés	es
+16	que	es
+17	ser	es
+18	buena	es
+19	persona	es
+20	y	es
+21	no	es
+22	querer	es
+23	cagarle	es
+24	a	es
+25	otras	es
+26	personas	es
+27	.	other
+
+#test99: Arareñóime opa mba'e iñambue
+1	Arareñóime	gn
+2	opa	gn
+3	mba'e	gn
+4	iñambue	gn
+
+#test100: Ramírez otaky confianza ministro de Educación , Eduardo Petta , orekóva capacidad sistema educativo oipyhýva sistema ojeporúva internet rupive , ko’ápe Ministerio de Educación y Ciencias ( MEC ) omokyre’ÿva plataforma educativa digital .
+1	Ramírez	ne-b-per
+2	otaky	gn
+3	confianza	es
+4	ministro	es
+5	de	es
+6	Educación	es
+7	,	other
+8	Eduardo	ne-b-per
+9	Petta	ne-i-per
+10	,	other
+11	orekóva	gn
+12	capacidad	es
+13	sistema	es
+14	educativo	es
+15	oipyhýva	gn
+16	sistema	es
+17	ojeporúva	gn
+18	internet	foreign
+19	rupive	gn
+20	,	other
+21	ko’ápe	gn
+22	Ministerio	ne-b-org
+23	de	ne-i-org
+24	Educación	ne-i-org
+25	y	ne-i-org
+26	Ciencias	ne-i-org
+27	(	other
+28	MEC	ne-b-org
+29	)	other
+30	omokyre’ÿva	gn
+31	plataforma	es
+32	educativa	es
+33	digital	es
+34	.	other
+
+#test101: Ko'ápe ko'ã chokokue ojoaju Ministerio de Agricultura y Ganadería ( MAG ) periodo Horacio Cartes , ome'êva comité agricultores tractores araje-pe guarã ha omokyre'ÿ pulverización ñemitÿ rehe noipytyvõiva ojeporu porã haguã yvy .
+1	Ko'ápe	gn
+2	ko'ã	gn
+3	chokokue	gn
+4	ojoaju	gn
+5	Ministerio	ne-b-org
+6	de	ne-i-org
+7	Agricultura	ne-i-org
+8	y	ne-i-org
+9	Ganadería	ne-i-org
+10	(	other
+11	MAG	ne-b-org
+12	)	other
+13	periodo	es
+14	Horacio	ne-b-per
+15	Cartes	ne-i-per
+16	,	other
+17	ome'êva	gn
+18	comité	es
+19	agricultores	es
+20	tractores	es
+21	araje-pe	gn
+22	guarã	gn
+23	ha	gn
+24	omokyre'ÿ	gn
+25	pulverización	es
+26	ñemitÿ	gn
+27	rehe	gn
+28	noipytyvõiva	gn
+29	ojeporu	gn
+30	porã	gn
+31	haguã	gn
+32	yvy	gn
+33	.	other
+
+#test102: Péicha umi maranduhára comunitario ogueromandu’a ha omomba’eguasu yvyramáta ha monte intacto kuaandy umi pueblo indígena-kuéra , oimeháme , ojuhúvo hi’upyrã , ohechávo umi pohã salud-pe guarã .
+1	Péicha	gn
+2	umi	gn
+3	maranduhára	gn
+4	comunitario	es
+5	ogueromandu’a	gn
+6	ha	gn
+7	omomba’eguasu	gn
+8	yvyramáta	gn
+9	ha	gn
+10	monte	es
+11	intacto	es
+12	kuaandy	gn
+13	umi	gn
+14	pueblo	es
+15	indígena-kuéra	mix
+16	,	other
+17	oimeháme	gn
+18	,	other
+19	ojuhúvo	gn
+20	hi’upyrã	gn
+21	,	other
+22	ohechávo	gn
+23	umi	gn
+24	pohã	gn
+25	salud-pe	mix
+26	guarã	gn
+27	.	other
+
+#test103: Nde mbae jajapota , así es la vida .
+1	Nde	gn
+2	mbae	gn
+3	jajapota	gn
+4	,	other
+5	así	es
+6	es	es
+7	la	es
+8	vida	es
+9	.	other
+
+#test104: Marito ojerúre ñemoirü Partido Colorado oguahëvo victorioso elecciones abril oúvape .
+1	Marito	ne-b-per
+2	ojerúre	gn
+3	ñemoirü	gn
+4	Partido	ne-b-org
+5	Colorado	ne-i-org
+6	oguahëvo	gn
+7	victorioso	es
+8	elecciones	es
+9	abril	es
+10	oúvape	gn
+11	.	other
+
+#test105: Ko’áĝaiko mba’e ára , he’íje farra-hápe iko’êmbava’ekue .
+1	Ko’áĝaiko	gn
+2	mba’e	gn
+3	ára	gn
+4	,	other
+5	he’íje	gn
+6	farra-hápe	mix
+7	iko’êmbava’ekue	gn
+8	.	other
+
+#test106: El kururu ( sapo ) en la cultura Guarani y paraguaya URL
+1	El	es
+2	kururu	gn
+3	(	other
+4	sapo	es
+5	)	other
+6	en	es
+7	la	es
+8	cultura	es
+9	Guarani	es
+10	y	es
+11	paraguaya	es
+12	URL	other
+
+#test107: @USER tomboguerohory nde eveni haguere al club olimpia maitei 🙏🏻 ha exito ha osali porãpa ndeve las cosas
+1	@USER	ne-b-org
+2	tomboguerohory	gn
+3	nde	gn
+4	eveni	gn
+5	haguere	gn
+6	al	es
+7	club	es
+8	olimpia	ne-b-org
+9	maitei	gn
+10	🙏🏻	other
+11	ha	gn
+12	exito	es
+13	ha	gn
+14	osali	gn
+15	porãpa	gn
+16	ndeve	gn
+17	las	es
+18	cosas	es
+
+#test108: MARANDU REÑOIHAGUE : “ Aranduka Itaju Tetâ Tavaguasu Mbo'ehaoguigua ” ohaiva'ekue tembikuaajára Angel Domingo Sosa .
+1	MARANDU	gn
+2	REÑOIHAGUE	gn
+3	:	other
+4	“	other
+5	Aranduka	gn
+6	Itaju	gn
+7	Tetâ	gn
+8	Tavaguasu	gn
+9	Mbo'ehaoguigua	gn
+10	”	other
+11	ohaiva'ekue	gn
+12	tembikuaajára	gn
+13	Angel	ne-b-per
+14	Domingo	ne-i-per
+15	Sosa	ne-i-per
+16	.	other
+
+#test109: @USER A vos pico quien te pregunto nde tembo , ekañy a tu país mbae 🙄🙄🙄🙄
+1	@USER	ne-b-per
+2	A	es
+3	vos	es
+4	pico	gn
+5	quien	es
+6	te	es
+7	pregunto	es
+8	nde	gn
+9	tembo	gn
+10	,	other
+11	ekañy	gn
+12	a	es
+13	tu	es
+14	país	es
+15	mbae	gn
+16	🙄🙄🙄🙄	other
+
+#test110: Ñemopotî Tekoha pyhareve guive oñepyrûvo organización civil “ Guardianes del Bosque ” .
+1	Ñemopotî	gn
+2	Tekoha	gn
+3	pyhareve	gn
+4	guive	gn
+5	oñepyrûvo	gn
+6	organización	es
+7	civil	es
+8	“	other
+9	Guardianes	ne-b-org
+10	del	ne-i-org
+11	Bosque	ne-i-org
+12	”	other
+13	.	other
+
+#test111: Empresa Palermo , Grupo Cartes , ombohovái cruce de llamada investigación rehegua upe 31M .
+1	Empresa	ne-b-org
+2	Palermo	ne-i-org
+3	,	other
+4	Grupo	ne-b-org
+5	Cartes	ne-i-org
+6	,	other
+7	ombohovái	gn
+8	cruce	es
+9	de	es
+10	llamada	es
+11	investigación	es
+12	rehegua	gn
+13	upe	gn
+14	31M	other
+15	.	other
+
+#test112: @USER Ña môkô py ! - No lunes no es día para 🍻🍻🥃 E'a ! pea ndaha'ei jarabe emoî haguâ ichupe día y hora .
+1	@USER	ne-b-per
+2	Ña	gn
+3	môkô	gn
+4	py	gn
+5	!	other
+6	-	other
+7	No	es
+8	lunes	es
+9	no	es
+10	es	es
+11	día	es
+12	para	es
+13	🍻🍻🥃	other
+14	E'a	gn
+15	!	other
+16	pea	gn
+17	ndaha'ei	gn
+18	jarabe	es
+19	emoî	gn
+20	haguâ	gn
+21	ichupe	gn
+22	día	es
+23	y	es
+24	hora	es
+25	.	other
+
+#test113: Guarani niko yma ymaite guive ha ko’ag̃aite peve ojeporu oñeñomongeta ha ojejokupyty hag̃ua ñane retãme . Guarani niko ñane ñe’ẽ ; guarani ñane moambue ; guarani ñande apo upe ñande haichaite ... he’iséva ñanembo Paraguái reko . Ñambojajáikena akóinte ñane guarani ! @USER
+1	Guarani	gn
+2	niko	gn
+3	yma	gn
+4	ymaite	gn
+5	guive	gn
+6	ha	gn
+7	ko’ag̃aite	gn
+8	peve	gn
+9	ojeporu	gn
+10	oñeñomongeta	gn
+11	ha	gn
+12	ojejokupyty	gn
+13	hag̃ua	gn
+14	ñane	gn
+15	retãme	gn
+16	.	other
+17	Guarani	gn
+18	niko	gn
+19	ñane	gn
+20	ñe’ẽ	gn
+21	;	other
+22	guarani	gn
+23	ñane	gn
+24	moambue	gn
+25	;	other
+26	guarani	gn
+27	ñande	gn
+28	apo	gn
+29	upe	gn
+30	ñande	gn
+31	haichaite	gn
+32	...	other
+33	he’iséva	gn
+34	ñanembo	gn
+35	Paraguái	ne-b-loc
+36	reko	gn
+37	.	other
+38	Ñambojajáikena	gn
+39	akóinte	gn
+40	ñane	gn
+41	guarani	gn
+42	!	other
+43	@USER	ne-b-org
+
+#test114: @USER Ahora nde inutiletema ara para hacer de chacha . Anda estudia mbae para no andar de chacha sin sueldo
+1	@USER	ne-b-per
+2	Ahora	es
+3	nde	gn
+4	inutiletema	mix
+5	ara	gn
+6	para	es
+7	hacer	es
+8	de	es
+9	chacha	mix
+10	.	other
+11	Anda	es
+12	estudia	es
+13	mbae	gn
+14	para	es
+15	no	es
+16	andar	es
+17	de	es
+18	chacha	mix
+19	sin	es
+20	sueldo	es
+
+#test115: Umi firma otercerisáva IPS ha'eháicha Cevima SA , omopotîva umi dependencia , ndopagái 18 mba'apohára Ciudad del Este-guápe .
+1	Umi	gn
+2	firma	es
+3	otercerisáva	gn
+4	IPS	ne-b-org
+5	ha'eháicha	gn
+6	Cevima	ne-b-org
+7	SA	ne-i-org
+8	,	other
+9	omopotîva	gn
+10	umi	gn
+11	dependencia	es
+12	,	other
+13	ndopagái	gn
+14	18	other
+15	mba'apohára	gn
+16	Ciudad	ne-b-loc
+17	del	ne-i-loc
+18	Este-guápe	ne-i-loc
+19	.	other
+
+#test116: Péicha ary 2016 joajúvo oheja cobertura médica-pe umi familia oikóva situación vulnerables , Ayolas jerére , ha he'íva ivaiha calidad servicio IPS oñembyaíva Centro de Salud oguahëvo .
+1	Péicha	gn
+2	ary	gn
+3	2016	other
+4	joajúvo	gn
+5	oheja	gn
+6	cobertura	es
+7	médica-pe	mix
+8	umi	gn
+9	familia	es
+10	oikóva	gn
+11	situación	es
+12	vulnerables	es
+13	,	other
+14	Ayolas	ne-b-loc
+15	jerére	gn
+16	,	other
+17	ha	gn
+18	he'íva	gn
+19	ivaiha	gn
+20	calidad	es
+21	servicio	es
+22	IPS	ne-b-org
+23	oñembyaíva	gn
+24	Centro	ne-b-org
+25	de	ne-i-org
+26	Salud	ne-i-org
+27	oguahëvo	gn
+28	.	other
+
+#test117: Centro Creativo y Cultural para el Desarrollo Primera Infancia " Torore " oñemoherakuãta ko'êrõ 8:00 aravo jave Gobernación Departamento Central , omomoñepyrûva oisãmbyhy mitãnguéra mimi 1 a 3 año
+1	Centro	ne-b-org
+2	Creativo	ne-i-org
+3	y	ne-i-org
+4	Cultural	ne-i-org
+5	para	ne-i-org
+6	el	ne-i-org
+7	Desarrollo	ne-i-org
+8	Primera	ne-i-org
+9	Infancia	ne-i-org
+10	"	ne-i-org
+11	Torore	ne-i-org
+12	"	ne-i-org
+13	oñemoherakuãta	gn
+14	ko'êrõ	gn
+15	8:00	other
+16	aravo	gn
+17	jave	gn
+18	Gobernación	ne-b-org
+19	Departamento	ne-i-org
+20	Central	ne-i-org
+21	,	other
+22	omomoñepyrûva	gn
+23	oisãmbyhy	gn
+24	mitãnguéra	gn
+25	mimi	gn
+26	1	other
+27	a	es
+28	3	other
+29	año	es
+
+#test118: Ojehecha momento delicado ocupación yvate umi tupa terapia intensiva disponible tetãme péva sumamente importante opavave roñopytyvõ romboguejy ramo ritmo de contagio .
+1	Ojehecha	gn
+2	momento	es
+3	delicado	es
+4	ocupación	es
+5	yvate	gn
+6	umi	gn
+7	tupa	gn
+8	terapia	es
+9	intensiva	es
+10	disponible	es
+11	tetãme	gn
+12	péva	gn
+13	sumamente	es
+14	importante	es
+15	opavave	gn
+16	roñopytyvõ	gn
+17	romboguejy	gn
+18	ramo	gn
+19	ritmo	es
+20	de	es
+21	contagio	es
+22	.	other
+
+#test119: “ Omoañete misiónoutáva Paraguáipe ha ohechauka ñe'ê añete ojeipysóva UE guive elecciones oguerovia hesakã ha ijeroviapýva tetãme ” , omoañete alta representante Política Exterior Europea , Federica Mogherini .
+1	“	other
+2	Omoañete	gn
+3	misiónoutáva	mix
+4	Paraguáipe	ne-b-loc
+5	ha	gn
+6	ohechauka	gn
+7	ñe'ê	gn
+8	añete	gn
+9	ojeipysóva	gn
+10	UE	ne-b-org
+11	guive	gn
+12	elecciones	es
+13	oguerovia	gn
+14	hesakã	gn
+15	ha	gn
+16	ijeroviapýva	gn
+17	tetãme	gn
+18	”	gn
+19	,	gn
+20	omoañete	gn
+21	alta	es
+22	representante	es
+23	Política	es
+24	Exterior	es
+25	Europea	es
+26	,	other
+27	Federica	ne-b-per
+28	Mogherini	ne-i-per
+29	.	other
+
+#test120: Senador Luis Castiglioni , afiliado movimiento disidente , he'íva oplanea reunión bancada ohechávo “ exclusivamente ” tema Cartes renuncia .
+1	Senador	es
+2	Luis	ne-b-per
+3	Castiglioni	ne-b-per
+4	,	other
+5	afiliado	es
+6	movimiento	es
+7	disidente	es
+8	,	other
+9	he'íva	gn
+10	oplanea	mix
+11	reunión	es
+12	bancada	es
+13	ohechávo	gn
+14	“	other
+15	exclusivamente	es
+16	”	other
+17	tema	es
+18	Cartes	ne-b-per
+19	renuncia	es
+20	.	other
+
+#test121: Tuicha mba'e chupekuéra oñomongetávo presidente de la República dive ha ikatúva oime lucha ha ikatúva osê porã umi ára oúvape ” , omoañete ministro de Defensa .
+1	Tuicha	gn
+2	mba'e	gn
+3	chupekuéra	gn
+4	oñomongetávo	gn
+5	presidente	es
+6	de	es
+7	la	es
+8	República	es
+9	dive	gn
+10	ha	gn
+11	ikatúva	gn
+12	oime	gn
+13	lucha	es
+14	ha	gn
+15	ikatúva	gn
+16	osê	gn
+17	porã	gn
+18	umi	gn
+19	ára	gn
+20	oúvape	gn
+21	”	other
+22	,	other
+23	omoañete	gn
+24	ministro	es
+25	de	es
+26	Defensa	es
+27	.	other
+
+#test122: Oimehápe funcionario estatal ha privado , orekóva uumi omoheñóiva negocio jurídico ha beneficio patrimonial ” , he’i upe Fiscalía imputación .
+1	Oimehápe	gn
+2	funcionario	es
+3	estatal	es
+4	ha	gn
+5	privado	es
+6	,	other
+7	orekóva	gn
+8	uumi	gn
+9	omoheñóiva	gn
+10	negocio	es
+11	jurídico	es
+12	ha	gn
+13	beneficio	es
+14	patrimonial	es
+15	”	other
+16	,	other
+17	he’i	gn
+18	upe	gn
+19	Fiscalía	ne-b-org
+20	imputación	es
+21	.	other
+
+#test123: Mba'e ñe'ẽ guaraníme pehayhuve ? ¿ Cuál es su palabra favorita en guaraní ?
+1	Mba'e	gn
+2	ñe'ẽ	gn
+3	guaraníme	gn
+4	pehayhuve	gn
+5	?	other
+6	¿	other
+7	Cuál	es
+8	es	es
+9	su	es
+10	palabra	es
+11	favorita	es
+12	en	es
+13	guaraní	es
+14	?	other
+
+#test124: Pedime nomas , ajapota avei ndeve . URL
+1	Pedime	es
+2	nomas	es
+3	,	other
+4	ajapota	gn
+5	avei	gn
+6	ndeve	gn
+7	.	other
+8	URL	other
+
+#test125: Anike oñembo puntos mba'e Bolivia ñande rehe 😴
+1	Anike	gn
+2	oñembo	gn
+3	puntos	es
+4	mba'e	gn
+5	Bolivia	ne-b-loc
+6	ñande	gn
+7	rehe	gn
+8	😴	other
+
+#test126: Murga ha'ete voi “ añao ” osê odefende haguã ita'ýra , senador cartista , oñeinvestigáva ko'ágã evasión de impuesto rehe
+1	Murga	es
+2	ha'ete	gn
+3	voi	gn
+4	“	other
+5	añao	gn
+6	”	other
+7	osê	gn
+8	odefende	mix
+9	haguã	gn
+10	ita'ýra	gn
+11	,	other
+12	senador	es
+13	cartista	es
+14	,	other
+15	oñeinvestigáva	mix
+16	ko'ágã	gn
+17	evasión	es
+18	de	es
+19	impuesto	es
+20	rehe	gn
+
+#test127: Che aipota avei :(
+1	Che	gn
+2	aipota	gn
+3	avei	gn
+4	:(	other
+
+#test128: Ipôraiterei Arevalos ..! Pojopy ndeve güârâ ..!
+1	Ipôraiterei	gn
+2	Arevalos	ne-b-per
+3	..!	other
+4	Pojopy	gn
+5	ndeve	gn
+6	güârâ	gn
+7	..!	other
+
+#test129: Tojahu hikuái nde ratypykuápe upe ka'aru …. Tengo el placer de entender el guarani
+1	Tojahu	gn
+2	hikuái	gn
+3	nde	gn
+4	ratypykuápe	gn
+5	upe	gn
+6	ka'aru	gn
+7	….	other
+8	Tengo	es
+9	el	es
+10	placer	es
+11	de	es
+12	entender	es
+13	el	es
+14	guarani	es
+
+#test130: Ndaikuaai mba'erepa otî lo mitá oñe'ehagûa guaranime . Ñande nio paraguaigua .
+1	Ndaikuaai	gn
+2	mba'erepa	gn
+3	otî	gn
+4	lo	es
+5	mitá	mix
+6	oñe'ehagûa	gn
+7	guaranime	gn
+8	.	other
+9	Ñande	gn
+10	nio	gn
+11	paraguaigua	gn
+12	.	other
+
+#test131: Péicha cuestionamiento Senad orekóva microtraficante , oîva jeguata upe jerére tetã pukukue .
+1	Péicha	gn
+2	cuestionamiento	es
+3	Senad	mix
+4	orekóva	gn
+5	microtraficante	es
+6	,	other
+7	oîva	gn
+8	jeguata	gn
+9	upe	gn
+10	jerére	gn
+11	tetã	gn
+12	pukukue	gn
+13	.	other
+
+#test132: Mborayhu niko tembipuru imbaretevéva
+1	Mborayhu	gn
+2	niko	gn
+3	tembipuru	gn
+4	imbaretevéva	gn
+
+#test133: Ojeguerohory kuña okaraygua ára URL
+1	Ojeguerohory	gn
+2	kuña	gn
+3	okaraygua	gn
+4	ára	gn
+5	URL	other
+
+#test134: Viva mi general he'i 🤣 ni ndoikuai jepe chupe 😳🤣
+1	Viva	es
+2	mi	es
+3	general	es
+4	he'i	gn
+5	🤣	other
+6	ni	es
+7	ndoikuai	gn
+8	jepe	gn
+9	chupe	gn
+10	😳🤣	other
+
+#test135: Mba'eichapa oje'e guaraníme " carpeta creativa " ?? 🤔🤔 #tavaranduara URL
+1	Mba'eichapa	gn
+2	oje'e	gn
+3	guaraníme	gn
+4	"	other
+5	carpeta	es
+6	creativa	es
+7	"	other
+8	??	other
+9	🤔🤔	other
+10	#tavaranduara	gn
+11	URL	other
+
+#test136: “ Ojerurévo omohenda haguã umi comerciante Mercado 4 kóva upe pasillo ohechaukáva noïrîha organizado .
+1	“	other
+2	Ojerurévo	gn
+3	omohenda	gn
+4	haguã	gn
+5	umi	gn
+6	comerciante	es
+7	Mercado	ne-b-org
+8	4	ne-i-org
+9	kóva	gn
+10	upe	gn
+11	pasillo	es
+12	ohechaukáva	gn
+13	noïrîha	gn
+14	organizado	es
+15	.	other
+
+#test137: Ko’ã mejora ohupyty US$ 3.5 millones ha upe aty propagandarante ovale .
+1	Ko’ã	gn
+2	mejora	es
+3	ohupyty	gn
+4	US$	other
+5	3.5	other
+6	millones	es
+7	ha	gn
+8	upe	gn
+9	aty	gn
+10	propagandarante	mix
+11	ovale	gn
+12	.	other
+
+#test138: Ko’ã propuesta oreko consensuada peteî grupo senadores bancada hetavéva .
+1	Ko’ã	gn
+2	propuesta	es
+3	oreko	gn
+4	consensuada	es
+5	peteî	gn
+6	grupo	es
+7	senadores	es
+8	bancada	es
+9	hetavéva	gn
+10	.	other
+
+#test139: Obispo ohenói omombarete haguã fe ha odefende haguã tekove
+1	Obispo	es
+2	ohenói	gn
+3	omombarete	gn
+4	haguã	gn
+5	fe	mix
+6	ha	gn
+7	odefende	mix
+8	haguã	gn
+9	tekove	gn
+
+#test140: PÑS-PE OÑEMBOJOPÓI ÑE’ẼRYRU GUARANÍME TEKOJOJARÃ REHEGUA URL
+1	PÑS-PE	ne-b-org
+2	OÑEMBOJOPÓI	gn
+3	ÑE’ẼRYRU	gn
+4	GUARANÍME	mix
+5	TEKOJOJARÃ	gn
+6	REHEGUA	gn
+7	URL	other
+
+#test141: @USER nde pico nderequi mbae pe escrbina guaranime mbae ani la inglepe guau pe nee cuaaiterei la inglepe
+1	@USER	ne-b-per
+2	nde	gn
+3	pico	gn
+4	nderequi	gn
+5	mbae	gn
+6	pe	gn
+7	escrbina	mix
+8	guaranime	gn
+9	mbae	gn
+10	ani	gn
+11	la	gn
+12	inglepe	mix
+13	guau	gn
+14	pe	gn
+15	nee	gn
+16	cuaaiterei	gn
+17	la	gn
+18	inglepe	mix
+
+#test142: Minibuses pasajero oguapýva .
+1	Minibuses	es
+2	pasajero	es
+3	oguapýva	gn
+4	.	other
+
+#test143: Jepopete Têtâ sambyhyharape ..! Peina ñanemoramduma : YAPYTAPAITETA ÑANDE ROGAPE , 12 ABRIL PEVE ..! Maymaiteva , ikatuhaicha , ñaipytyvô umi ñande rapicha oikoteveape . Ikatu guive tojapo tembi'u hetapôrâ , ha tome'e mita , kuñakarai ha karai mboriahupe .. Ta'upeicha ..!
+1	Jepopete	gn
+2	Têtâ	gn
+3	sambyhyharape	gn
+4	..!	other
+5	Peina	gn
+6	ñanemoramduma	gn
+7	:	other
+8	YAPYTAPAITETA	gn
+9	ÑANDE	gn
+10	ROGAPE	gn
+11	,	other
+12	12	other
+13	ABRIL	es
+14	PEVE	gn
+15	..!	other
+16	Maymaiteva	gn
+17	,	other
+18	ikatuhaicha	gn
+19	,	other
+20	ñaipytyvô	gn
+21	umi	gn
+22	ñande	gn
+23	rapicha	gn
+24	oikoteveape	gn
+25	.	other
+26	Ikatu	gn
+27	guive	gn
+28	tojapo	gn
+29	tembi'u	gn
+30	hetapôrâ	gn
+31	,	other
+32	ha	gn
+33	tome'e	gn
+34	mita	gn
+35	,	other
+36	kuñakarai	gn
+37	ha	gn
+38	karai	gn
+39	mboriahupe	gn
+40	..	other
+41	Ta'upeicha	gn
+42	..!	other
+
+#test144: Oikove jey Evelyn
+1	Oikove	gn
+2	jey	gn
+3	Evelyn	ne-b-per
+
+#test145: Por cuota mba'e piko ejapo la nde lista
+1	Por	es
+2	cuota	es
+3	mba'e	gn
+4	piko	gn
+5	ejapo	gn
+6	la	es
+7	nde	gn
+8	lista	es
+
+#test146: @USER Terere hei JAJAJAJAJAJA esos 4 sándwich que comprábamos 😭
+1	@USER	ne-b-per
+2	Terere	gn
+3	hei	gn
+4	JAJAJAJAJAJA	es-b-cc
+5	esos	es-i-cc
+6	4	other
+7	sándwich	es-b-cc
+8	que	es-i-cc
+9	comprábamos	es-i-cc
+10	😭	other
+
+#test147: Hetama aka'u nde rerape 🍻
+1	Hetama	gn
+2	aka'u	gn
+3	nde	gn
+4	rerape	gn
+5	🍻	other
+
+#test148: Upéicha ára 7 jasypoteî ary 1917-pe , táva Chicago , Estados Unidos-pe ; oñemboajékuri Leô Atyha ha jasypa upe aryguápe táva Dallas , Texas-pe oñemboajékuri upe atyha rekoguataha ha rekombojojaha ha upéicha avei ijehupytyrâ ha tekopotî mbohapeha .
+1	Upéicha	gn
+2	ára	gn
+3	7	other
+4	jasypoteî	gn
+5	ary	gn
+6	1917-pe	other
+7	,	other
+8	táva	gn
+9	Chicago	ne-b-loc
+10	,	other
+11	Estados	ne-b-loc
+12	Unidos-pe	ne-i-loc
+13	;	other
+14	oñemboajékuri	gn
+15	Leô	ne-b-org
+16	Atyha	ne-i-org
+17	ha	gn
+18	jasypa	gn
+19	upe	gn
+20	aryguápe	gn
+21	táva	gn
+22	Dallas	ne-b-loc
+23	,	other
+24	Texas-pe	ne-b-loc
+25	oñemboajékuri	gn
+26	upe	gn
+27	atyha	gn
+28	rekoguataha	gn
+29	ha	gn
+30	rekombojojaha	gn
+31	ha	gn
+32	upéicha	gn
+33	avei	gn
+34	ijehupytyrâ	gn
+35	ha	gn
+36	tekopotî	gn
+37	mbohapeha	gn
+38	.	other
+
+#test149: @USER jajajajajajja M O O P I O españolita jajajaja eikuaasepa mba'eicha ojescribi guaranime ? EUKUAASEPA ?
+1	@USER	ne-b-per
+2	jajajajajajja	es-b-ul
+3	M	gn
+4	O	gn
+5	O	gn
+6	P	gn
+7	I	gn
+8	O	gn
+9	españolita	es-b-ul
+10	jajajaja	es-i-ul
+11	eikuaasepa	gn
+12	mba'eicha	gn
+13	ojescribi	mix
+14	guaranime	gn
+15	?	other
+16	EUKUAASEPA	gn
+17	?	other
+
+#test150: ¿ Ña tî jahai haguâ guaranime ? Terâ guarani ñe´e ndaha´ei " tecnológico " ?
+1	¿	other
+2	Ña	gn
+3	tî	gn
+4	jahai	gn
+5	haguâ	gn
+6	guaranime	gn
+7	?	other
+8	Terâ	gn
+9	guarani	gn
+10	ñe´e	gn
+11	ndaha´ei	gn
+12	"	other
+13	tecnológico	es-b-ul
+14	"	other
+15	?	other
+
+#test151: @USER Eme'ê nde retépe vy'a Makarena ... (8)
+1	@USER	ne-b-per
+2	Eme'ê	gn
+3	nde	gn
+4	retépe	gn
+5	vy'a	gn
+6	Makarena	ne-b-per
+7	...	other
+8	(8)	other
+
+#test152: Péva ogueraha mitãpyahu 15 a 29 ary , ha móto ári que son los principales protagonistas de
+1	Péva	gn
+2	ogueraha	gn
+3	mitãpyahu	gn
+4	15	other
+5	a	es-b-ul
+6	29	other
+7	ary	gn
+8	,	other
+9	ha	gn
+10	móto	gn
+11	ári	gn
+12	que	es-b-cc
+13	son	es-i-cc
+14	los	es-i-cc
+15	principales	es-i-cc
+16	protagonistas	es-i-cc
+17	de	es-i-cc
+
+#test153: @USER Aguante Ara katu
+1	@USER	ne-b-per
+2	Aguante	es-b-ul
+3	Ara	ne-b-per
+4	katu	gn
+
+#test154: Fiscal general del Estado Javier Díaz Verón , omoherakuã “ ojeruré permiso ” oñemboyke ha titularidad Ministerio Público “ bienestar de su familia ” , ohekávo investigación en su contra .
+1	Fiscal	es-b-cc
+2	general	es-i-cc
+3	del	es-i-cc
+4	Estado	ne-b-org
+5	Javier	ne-b-per
+6	Díaz	ne-i-per
+7	Verón	ne-i-per
+8	,	other
+9	omoherakuã	gn
+10	“	other
+11	ojeruré	gn
+12	permiso	es-b-ul
+13	”	other
+14	oñemboyke	gn
+15	ha	gn
+16	titularidad	es-b-ul
+17	Ministerio	ne-b-org
+18	Público	ne-i-org
+19	“	other
+20	bienestar	es-b-cc
+21	de	es-i-cc
+22	su	es-i-cc
+23	familia	es-i-cc
+24	”	other
+25	,	other
+26	ohekávo	gn
+27	investigación	es-b-ul
+28	en	es-i-ul
+29	su	es-i-ul
+30	contra	es-i-ul
+31	.	other
+
+#test155: Ko'ápe , ha pya'ete discurso , Horacio Cartes omoañete ndaha'éiha tiempo de revanchismo ha péicha omba'apova'erã lista 1 rehe .
+1	Ko'ápe	gn
+2	,	other
+3	ha	gn
+4	pya'ete	gn
+5	discurso	es-b-ul
+6	,	other
+7	Horacio	ne-b-per
+8	Cartes	ne-i-per
+9	omoañete	gn
+10	ndaha'éiha	gn
+11	tiempo	es-b-ul
+12	de	es-i-ul
+13	revanchismo	es-i-ul
+14	ha	gn
+15	péicha	gn
+16	omba'apova'erã	gn
+17	lista	es-b-ul
+18	1	other
+19	rehe	gn
+20	.	other
+
+#test156: Oñepyrûva jornada omotenondéva celebración religiosa oisãmbyhýva monseñor Mario Melanio Medina , upéi , pobladores omoirûva procesión orekóva santa imagen .
+1	Oñepyrûva	gn
+2	jornada	es-b-ul
+3	omotenondéva	gn
+4	celebración	es-b-ul
+5	religiosa	es-i-ul
+6	oisãmbyhýva	gn
+7	monseñor	es-b-ul
+8	Mario	ne-b-per
+9	Melanio	ne-i-per
+10	Medina	ne-i-per
+11	,	other
+12	upéi	gn
+13	,	other
+14	pobladores	es-b-ul
+15	omoirûva	gn
+16	procesión	es-b-ul
+17	orekóva	gn
+18	santa	es-b-ul
+19	imagen	es-i-ul
+20	.	other
+
+#test157: @USER Te falto el clásico de la lupa , llorón !!! Anda lava tu tanga mbae nde drogadicto !!!
+1	@USER	ne-b-per
+2	Te	es-b-cc
+3	falto	es-i-cc
+4	el	es-i-cc
+5	clásico	es-i-cc
+6	de	es-i-cc
+7	la	es-i-cc
+8	lupa	es-i-cc
+9	,	other
+10	llorón	other
+11	!!!	other
+12	Anda	es-b-cc
+13	lava	es-i-cc
+14	tu	es-i-cc
+15	tanga	es-i-cc
+16	mbae	gn
+17	nde	gn
+18	drogadicto	es-b-ul
+19	!!!	other
+
+#test158: Ñamokõva'erã “ kururu ” pero ndaha'éi péicha .
+1	Ñamokõva'erã	gn
+2	“	other
+3	kururu	gn
+4	”	other
+5	pero	es
+6	ndaha'éi	gn
+7	péicha	gn
+8	.	other
+
+#test159: PÑS mba'apohára pyahu jeporavorã - Llamado a Concurso de la SPL .
+1	PÑS	ne-b-org
+2	mba'apohára	gn
+3	pyahu	gn
+4	jeporavorã	gn
+5	-	other
+6	Llamado	es
+7	a	es
+8	Concurso	es
+9	de	es
+10	la	es
+11	SPL	ne-b-org
+12	.	other
+
+#test160: Nde bolsillo rasy mba’e pío profe . Eguenohena la tarjeta che papá 🙄🙄
+1	Nde	gn
+2	bolsillo	es
+3	rasy	gn
+4	mba’e	gn
+5	pío	gn
+6	profe	es
+7	.	other
+8	Eguenohena	gn
+9	la	es
+10	tarjeta	es
+11	che	gn
+12	papá	es
+13	🙄🙄	other
+
+#test161: Mario Abdo oguahê mbohupárõ Tañarandýpe
+1	Mario	ne-b-per
+2	Abdo	ne-i-per
+3	oguahê	gn
+4	mbohupárõ	gn
+5	Tañarandýpe	ne-b-loc
+
+#test162: “ Karai , eho nde rógape ” , dirá la policía a los que vayan a Caacupé URL
+1	“	other
+2	Karai	gn
+3	,	other
+4	eho	gn
+5	nde	gn
+6	rógape	gn
+7	”	other
+8	,	gn
+9	dirá	es
+10	la	es
+11	policía	es
+12	a	es
+13	los	es
+14	que	es
+15	vayan	es
+16	a	es
+17	Caacupé	ne-b-loc
+18	URL	other
+
+#test163: Estudiantes de Fenaes ombosako’i movilización oñeikotevêgui mbo’ehára
+1	Estudiantes	es
+2	de	es
+3	Fenaes	es
+4	ombosako’i	gn
+5	movilización	es
+6	oñeikotevêgui	gn
+7	mbo’ehára	gn
+
+#test164: Péicha , Fleitas ojepytaso presupuesto ojeguerekóva umi becakuéra oïva rehe umi temimbo'e imboriahuvéva rehe ha ojoajúo umi centros de estudiantes ha umi firma privada oike haguã omba'apo .
+1	Péicha	gn
+2	,	other
+3	Fleitas	ne-b-per
+4	ojepytaso	gn
+5	presupuesto	es
+6	ojeguerekóva	gn
+7	umi	gn
+8	becakuéra	mix
+9	oïva	gn
+10	rehe	gn
+11	umi	gn
+12	temimbo'e	gn
+13	imboriahuvéva	gn
+14	rehe	gn
+15	ha	gn
+16	ojoajúo	gn
+17	umi	gn
+18	centros	es
+19	de	es
+20	estudiantes	es
+21	ha	gn
+22	umi	gn
+23	firma	es
+24	privada	es
+25	oike	gn
+26	haguã	gn
+27	omba'apo	gn
+28	.	other
+
+#test165: Oñemoherakuãva grupo piribebuiense “ Tercera Capital ” omotenonde emotivo homenaje opavave túva hi'arape .
+1	Oñemoherakuãva	gn
+2	grupo	es
+3	piribebuiense	es
+4	“	other
+5	Tercera	ne-b-org
+6	Capital	ne-i-org
+7	”	other
+8	omotenonde	gn
+9	emotivo	es
+10	homenaje	es
+11	opavave	gn
+12	túva	gn
+13	hi'arape	gn
+14	.	other
+
+#test166: Cuando todo está peor ... más debemos insistir ! Opaite mba'e oho vaive jave ... ñañeha'âvéva'erâ !
+1	Cuando	es
+2	todo	es
+3	está	es
+4	peor	es
+5	...	other
+6	más	es
+7	debemos	es
+8	insistir	es
+9	!	other
+10	Opaite	gn
+11	mba'e	gn
+12	oho	gn
+13	vaive	gn
+14	jave	gn
+15	...	other
+16	ñañeha'âvéva'erâ	gn
+17	!	other
+
+#test167: Juez Amarilla oiko imputación Ferreiro Paz ha Ferreiro Ayala fiscal omombe’úva “ sucintamente el o los hechos ” penales oñeme’êva , péva ohai ko’ã grupo Telegram ojapóva red de recaudación paralela , ome’ê ÿre detalle modus operandi .
+1	Juez	es-b-ul
+2	Amarilla	ne-b-per
+3	oiko	gn
+4	imputación	es-b-ul
+5	Ferreiro	ne-b-per
+6	Paz	ne-i-per
+7	ha	gn
+8	Ferreiro	ne-b-per
+9	Ayala	ne-i-per
+10	fiscal	es-b-ul
+11	omombe’úva	gn
+12	“	other
+13	sucintamente	es-b-cc
+14	el	es-i-cc
+15	o	es-i-cc
+16	los	es-i-cc
+17	hechos	es-i-cc
+18	”	other
+19	penales	es-b-ul
+20	oñeme’êva	gn
+21	,	other
+22	péva	gn
+23	ohai	gn
+24	ko’ã	gn
+25	grupo	es-b-ul
+26	Telegram	ne-b-org
+27	ojapóva	gn
+28	red	es-b-ul
+29	de	es-i-ul
+30	recaudación	es-i-ul
+31	paralela	es-i-ul
+32	,	other
+33	ome’ê	gn
+34	ÿre	gn
+35	detalle	es-b-ul
+36	modus	foreign
+37	operandi	foreign
+38	.	other
+
+#test168: @USER Nde porã katu
+1	@USER	ne-b-per
+2	Nde	gn
+3	porã	gn
+4	katu	gn
+
+#test169: @USER corre lejos katu de ese hospital , ani te contagias loca
+1	@USER	ne-b-per
+2	corre	es-b-cc
+3	lejos	es-i-cc
+4	katu	gn
+5	de	es-b-cc
+6	ese	es-i-cc
+7	hospital	es-i-cc
+8	,	other
+9	ani	gn
+10	te	es-b-cc
+11	contagias	es-i-cc
+12	loca	es-i-cc
+
+#test170: Umi genuino alberdeño , opa ohóvo mbeguekatúpe
+1	Umi	gn
+2	genuino	es-b-ul
+3	alberdeño	es-i-ul
+4	,	other
+5	opa	gn
+6	ohóvo	gn
+7	mbeguekatúpe	gn
+
+#test171: Aikese che r .. kuápe
+1	Aikese	gn
+2	che	gn
+3	r	gn
+4	..	other
+5	kuápe	gn
+
+#test172: @USER Ovya ha'e por demostrar ignorancia , la tavy ndandejukai pero nde reko asy .
+1	@USER	ne-b-per
+2	Ovya	gn
+3	ha'e	gn
+4	por	es-b-cc
+5	demostrar	es-i-cc
+6	ignorancia	es-i-cc
+7	,	other
+8	la	es-b-ul
+9	tavy	gn
+10	ndandejukai	gn
+11	pero	es-b-ul
+12	nde	gn
+13	reko	gn
+14	asy	gn
+15	.	other
+
+#test173: Ojerúre pytyvõ pueblo indígena oimehápe ko territorio .
+1	Ojerúre	gn
+2	pytyvõ	gn
+3	pueblo	es
+4	indígena	es
+5	oimehápe	gn
+6	ko	gn
+7	territorio	es
+8	.	other
+
+#test174: #ParaguáiMarandu @USER ohechakuaa ñe’ê guaraní ymaguare . @USER
+1	#ParaguáiMarandu	gn
+2	@USER	ne-b-org
+3	ohechakuaa	gn
+4	ñe’ê	gn
+5	guaraní	gn
+6	ymaguare	gn
+7	.	other
+8	@USER	ne-b-org
+
+#test175: Gobierno Juan Carlos Wasmosy oñepresenta peteî maqueta ha oñemohenda ita fundacional zona Botánico .
+1	Gobierno	es
+2	Juan	ne-b-per
+3	Carlos	ne-i-per
+4	Wasmosy	ne-i-per
+5	oñepresenta	mix
+6	peteî	gn
+7	maqueta	es
+8	ha	gn
+9	oñemohenda	gn
+10	ita	gn
+11	fundacional	es
+12	zona	es
+13	Botánico	ne-b-loc
+14	.	other
+
+#test176: Asociación de Vendedores Ambulantes del Paraguay omoherakuã convocatoria general oipysóva 8:30 viaducto Calle Última guýre .
+1	Asociación	ne-b-org
+2	de	ne-i-org
+3	Vendedores	ne-i-org
+4	Ambulantes	ne-i-org
+5	del	ne-i-org
+6	Paraguay	ne-i-org
+7	omoherakuã	gn
+8	convocatoria	es
+9	general	es
+10	oipysóva	gn
+11	8:30	other
+12	viaducto	ne-b-loc
+13	Calle	ne-i-loc
+14	Última	ne-i-loc
+15	guýre	gn
+16	.	other
+
+#test177: Mburuvicha guasu ha’ete oho oñomongeta hendivekuéra “ mba’apohára ” , ogueraháva pytyvõ incondicional ichupe ha ohasávo “ osepilla ” ministra de Trabajo , Carla Bacigalupo-pe , ohenóiva’ekue chupekuéra “ protesta jave ” ombotovévo juicio político , ojeipysóva upe tendáre .
+1	Mburuvicha	gn
+2	guasu	gn
+3	ha’ete	gn
+4	oho	gn
+5	oñomongeta	gn
+6	hendivekuéra	gn
+7	“	other
+8	mba’apohára	gn
+9	”	other
+10	,	other
+11	ogueraháva	gn
+12	pytyvõ	gn
+13	incondicional	es
+14	ichupe	gn
+15	ha	gn
+16	ohasávo	gn
+17	“	other
+18	osepilla	mix
+19	”	other
+20	ministra	es
+21	de	es
+22	Trabajo	es
+23	,	other
+24	Carla	ne-b-per
+25	Bacigalupo-pe	ne-i-per
+26	,	other
+27	ohenóiva’ekue	gn
+28	chupekuéra	gn
+29	“	other
+30	protesta	es
+31	jave	other
+32	”	gn
+33	ombotovévo	gn
+34	juicio	es
+35	político	es
+36	,	other
+37	ojeipysóva	gn
+38	upe	gn
+39	tendáre	gn
+40	.	other
+
+#test178: @USER nde porã es pero acepto , nde nde porã avei
+1	@USER	ne-b-per
+2	nde	gn
+3	porã	gn
+4	es	es
+5	pero	es
+6	acepto	es
+7	,	other
+8	nde	gn
+9	nde	gn
+10	porã	gn
+11	avei	gn
+
+#test179: Unidad de Delitos Económicos Fiscalía omotenondéva kuehe poapy allanamiento Itapúa -pe .
+1	Unidad	ne-b-org
+2	de	ne-i-org
+3	Delitos	ne-i-org
+4	Económicos	ne-i-org
+5	Fiscalía	ne-b-org
+6	omotenondéva	gn
+7	kuehe	gn
+8	poapy	gn
+9	allanamiento	es
+10	Itapúa	ne-b-loc
+11	-pe	gn
+12	.	other
+
+#test180: Ani ejavy la nde rape
+1	Ani	gn
+2	ejavy	gn
+3	la	gn
+4	nde	gn
+5	rape	gn
+
